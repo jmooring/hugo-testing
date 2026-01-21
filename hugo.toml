@@ -1,3 +1,14 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #14409'
+disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
+defaultContentLanguage         = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+  weight = 1
+
+[languages.de]
+  weight = 2
+
+[[cascade]]
+  draft = true
+  [cascade.target.sites.matrix]
+    languages = ['en']
