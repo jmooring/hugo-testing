@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo GitHub Issue #14409
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/14409>
 
-Description: @@DESCRIPTION@@
+Description: panic with cascade
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-github-issue-14409 https://github.com/jmooring/hugo-testing hugo-github-issue-14409
+cd hugo-github-issue-14409
 hugo server
 ```
