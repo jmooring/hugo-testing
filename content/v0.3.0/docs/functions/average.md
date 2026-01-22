@@ -1,7 +1,6 @@
 ---
 title: average
-build:
-  list: never
-  publishResources: false
-  render: never
+sites:
+  matrix:
+    versions: < v0.3.0
 ---
