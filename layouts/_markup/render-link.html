@@ -1,0 +1,6 @@
+{{- $u := urls.Parse .Destination -}}
+{{- with .PageInner.GetPage (strings.TrimPrefix "./" $u.Path) }}
+Success: {{ .LinkTitle }}
+{{- else }}
+Failed to get page: {{ $u.Path }}
+{{- end }}
