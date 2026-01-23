@@ -2,7 +2,6 @@
 title: p1
 ---
 
-
 ## Page-relative link destinations using file paths
 
 These link destinations were composed using VS Code's path completion feature.
@@ -13,7 +12,7 @@ These link destinations were composed using VS Code's path completion feature.
 [s1](../../s1/_index.md)
 [s2](../../s2/_index.md)
 
-[p1](./index.md)
+[p1](../p1/index.md)
 [p2](../p2.md)
 [p3](../../s2/p3/index.md)
 [p4](../../s2/p4.md)
@@ -24,7 +23,7 @@ These link destinations were composed using VS Code's path completion feature.
 [s1](../../s1/_index.md)
 [s2](../../s2/_index.md)
 
-[p1](./index.md)
+[p1](../p1/index.md)
 [p2](../p2.md)
 [p3](../../s2/p3/index.md)
 [p4](../../s2/p4.md)
@@ -48,7 +47,7 @@ These link destinations were composed using VS Code's path completion feature.
 [s1](../s1)
 [s2](../s2)
 
-[p1](.)
+[p1](p1)
 [p2](p2)
 [p3](../s2/p3)
 [p4](../s2/p4)
