@@ -1,5 +1,5 @@
 module foo
 
-go 1.22.3
+go 1.24.0
 
-require github.com/jmooring/hugo-module-backlinks v0.2.1 // indirect
+require github.com/jmooring/hugo-module-backlinks v0.2.2 // indirect

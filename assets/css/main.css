@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  margin: 0 1rem;
+  margin: 1rem;
   max-width: 768px;
 }
 
@@ -19,36 +19,38 @@ a {
   text-decoration: none;
 }
 
+img {
+  height: auto;
+  max-width: 100%;
+}
+
 /* Navigation */
 /* ------------------------------------------------------------------------- */
 
-nav {
-  margin-bottom: 1rem;
-}
-
-nav ul {
-  font-size: 0;
+.nav-inline ol,
+.nav-inline ul {
+  margin: 1rem 0;
   padding: 0;
 }
 
-nav li {
+.nav-inline li {
   display: inline;
+  padding-right: 1rem;
 }
 
-nav a {
-  font-size: 1rem;
-  padding: 0.25em 0.5em;
+.nav-inline li:last-of-type {
+  padding-right: 0;
 }
 
-nav li.active a {
+.nav-inline li.active a {
   background-color: yellow;
 }
 
-nav li.ancestor a {
+.nav-inline li.ancestor a {
   background-color: cyan;
 }
 
-nav.breadcrumbs li:not(:last-child)::after {
+.nav-inline.breadcrumbs li:not(:last-child)::after {
   content: "\00bb";
 }
 
