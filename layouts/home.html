@@ -9,8 +9,11 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
+  {{ range (.Paginate site.RegularPages 5).Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
     <div>{{ .Summary }}</div>
   {{ end }}
+  <nav class="pagination">
+    {{ partial "pagination.html" . }}
+  </nav>
 {{ end }}
