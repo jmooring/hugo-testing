@@ -1,5 +1,5 @@
 baseURL      = 'https://example.org'
-disableKinds = ['home', 'rss', 'sitemap', 'taxonomy', 'term']
+disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
 
 defaultContentLanguage = 'en'
 
@@ -15,11 +15,23 @@ defaultContentVersionInSubdir  = true
   weight = 2
   # baseURL      = 'https://de.example.org/'
 
-[outputFormats.print]
-  isHTML    = true
-  mediaType = 'text/html'
-  path      = 'print'
+[mediaTypes]
+  [mediaTypes.'text/redirects']
+    delimiter = ''
+
+[outputFormats]
+  [outputFormats.print]
+    isHTML        = true
+    mediaType     = 'text/html'
+    path          = 'print'
+    permalinkable = true
+  [outputFormats.redirects]
+    baseName    = '_redirects'
+    isPlainText = true
+    mediaType   = 'text/redirects'
+    root        = true
 
 [outputs]
+  home    = ['html', 'redirects']
   page    = ['html', 'print']
   section = ['html', 'print']
