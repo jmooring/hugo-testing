@@ -1,0 +1,17 @@
+{{ $template := `
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>{{ . }}</title>
+    <link rel="canonical" href="{{ . }}">
+    <meta charset="utf-8">
+    <meta http-equiv="refresh" content="0; url={{ . }}">
+  </head>
+</html>
+`}}
+{{ range hugo.Data.redirects_from_root }}
+  {{ $targetPath := urls.JoinPath .source "index.html"}}
+  {{ $destination := urls.JoinPath site.BaseURL .destination }}
+  {{ $r := $template | resources.FromString $targetPath | resources.ExecuteAsTemplate $targetPath $destination }}
+  {{ $r.Publish }}
+{{ end }}
