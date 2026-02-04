@@ -1,0 +1,28 @@
+{{- if not (hugo.Store.Get "has_printed_redirects") -}}
+
+  {{- /* Generate redirects from the aliases front matter field. */ -}}
+  {{- range .Sites -}}
+    {{- range $p := .Pages -}}
+      {{- range .Aliases -}}
+        {{- if findRE `\s` . -}}
+          {{- errorf "One of the front matter aliases in %q contains whitespace" $p.String -}}
+        {{- end -}}
+        {{- printf "Redirect 301 %q %q\n" . $p.RelPermalink -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- /* Generate redirects from the data file. */ -}}
+  {{- $dataFileName := "redirects_from_root" -}}
+  {{- range index site.Data $dataFileName -}}
+    {{- if findRE `\s` .source -}}
+      {{- errorf "One of the source entries in the %q data file contains whitespace" $dataFileName .source -}}
+    {{- end -}}
+    {{- if findRE `\s` .destination -}}
+      {{- errorf "One of destination entries in the %q data file contains whitespace" $dataFileName .destination -}}
+    {{- end -}}
+    {{- printf "Redirect 301 %q %q\n" .source .destination -}}
+  {{- end -}}
+  {{- hugo.Store.Set "has_printed_redirects" true -}}
+
+{{- end -}}

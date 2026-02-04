@@ -1,0 +1,4 @@
+- source: /foo
+  destination: /en/examples/a/
+- source: /bar
+  destination: /de/examples/a/

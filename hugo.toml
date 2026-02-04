@@ -1,3 +1,35 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo Forum Topic #56667'
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+disableAliases = true
+
+defaultContentLanguage         = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+  languageCode      = 'en-US'
+  languageDirection = 'ltr'
+  languageName      = 'English'
+  weight            = 1
+  title             = 'Hugo Forum Topic #56667'
+
+[languages.de]
+  languageCode      = 'de-DE'
+  languageDirection = 'ltr'
+  languageName      = 'Deutsch'
+  weight            = 2
+  title             = 'Hugo Forum Topic #56667 (de)'
+
+[mediaTypes]
+  [mediaTypes.'text/htaccess']
+    delimiter = ''
+
+[outputFormats]
+  [outputFormats.htaccess]
+    baseName    = '.htaccess'
+    isPlainText = true
+    mediaType   = 'text/htaccess'
+    root        = true
+
+[outputs]
+  home = ['html', 'htaccess']
