@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #56667
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/56667>
 
-Description: @@DESCRIPTION@@
+Description: How to use aliases across languages in v0.155.0?
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-56667 https://github.com/jmooring/hugo-testing hugo-forum-topic-56667
+cd hugo-forum-topic-56667
 hugo server
 ```
