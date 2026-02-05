@@ -1,0 +1,4 @@
+---
+title: Collector
+aliases: [./about]
+---

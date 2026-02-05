@@ -1,3 +1,24 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo Forum Topic #56674'
+baseURL      = 'https://example.org/'
+disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
+
+defaultContentLanguage         = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+  contentDir        = 'content/en'
+  languageCode      = 'en-US'
+  languageDirection = 'ltr'
+  languageName      = 'English'
+  weight            = 1
+  title             = 'Hugo Forum Topic #56674 (en)'
+
+[languages.de]
+  contentDir        = 'content/de'
+  languageCode      = 'de-DE'
+  languageDirection = 'ltr'
+  languageName      = 'Deutsch'
+  weight            = 2
+  title             = 'Hugo Forum Topic #56674 (de)'
+
+[markup.goldmark.extensions.extras.mark]
+  enable = true
