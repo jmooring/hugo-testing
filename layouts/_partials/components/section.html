@@ -1,11 +1,8 @@
 <section class="content-section">
   {{ with .label }}
-    <h2 class="section-label">
-      {{ . }}
-    </h2>
+    <h2 class="section-label">{{ . }}</h2>
   {{ end }}
-
   <div class="section-content">
-    {{ templates.Inner .page }}
+    {{ templates.Inner . }}
   </div>
 </section>

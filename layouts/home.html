@@ -10,18 +10,26 @@
   {{ end }}
   {{ .Content }}
 
-  {{ with partial "components/section.html" (dict "page" . "label" "Recent Posts") }}
-    <div class="grid-wrapper">
-      {{ range site.RegularPages }}
-        {{ with partial "components/column.html" (dict "page" . "class" "col-half") }}
-          {{ with partial "components/card.html" (dict "page" . "url" .RelPermalink "title" .LinkTitle) }}
-            <p>
-              {{ .Content | plainify | strings.Truncate 240 }}
-            </p>
-          {{ end }}
+{{ $section := site.GetPage "/posts" }}
+
+{{ $ctx := dict
+  "page" .
+  "label" "Recent Posts"
+  "pageCollection" ((site.GetPage "/posts").RegularPages)
+}}
+
+{{ with partial "components/section.html" $ctx }}
+  <div class="grid-wrapper">
+    {{ range .pageCollection }}
+      {{ with partial "components/column.html" (dict "page" . "class" "col-half") }}
+        {{ with partial "components/card.html" (dict "page" .page "url" .page.RelPermalink "title" .page.LinkTitle) }}
+          <p>
+            {{ .page.Content | plainify | strings.Truncate 240 }}
+          </p>
         {{ end }}
       {{ end }}
-    </div>
-  {{ end }}
+    {{ end }}
+  </div>
+{{ end }}
 
 {{ end }}
