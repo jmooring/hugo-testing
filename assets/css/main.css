@@ -1,0 +1,187 @@
+/* Base */
+/* ------------------------------------------------------------------------- */
+
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 1rem;
+  max-width: 768px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+img {
+  height: auto;
+  max-width: 100%
+}
+
+/* Navigation */
+/* ------------------------------------------------------------------------- */
+
+.nav-inline ol,
+.nav-inline ul {
+  margin: 1rem 0;
+  padding: 0;
+}
+
+.nav-inline li {
+  display: inline;
+  padding-right: 1rem;
+}
+
+.nav-inline li:last-of-type {
+  padding-right: 0;
+}
+
+.nav-inline li.active a {
+  background-color: yellow;
+}
+
+.nav-inline li.ancestor a {
+  background-color: cyan;
+}
+
+.nav-inline.breadcrumbs li:not(:last-child)::after {
+  content: "\00bb";
+}
+
+/* Code blocks */
+/* ------------------------------------------------------------------------- */
+
+/* Applies when there are no line numbers, or when line numbers are inline. */
+.highlight > pre {
+  padding: 1em 0 1em 1em;
+}
+
+/* Applies when line numbers are in a table cell. */
+.highlight div {
+  padding: 0 0 0 1em;
+}
+
+/* Applies to all. */
+.highlight div,
+.highlight > pre {
+  overflow-x: auto;
+  /* add border-radius and box-shadow here */
+}
+
+/* Applies when using an external style sheet. */
+/* https://github.com/alecthomas/chroma/issues/722 */
+.highlight .chroma .lntable .lnt,
+.highlight .chroma .lntable .hl {
+  display: flex;
+}
+
+/* Applies when using an external style sheet. */
+/* https://github.com/alecthomas/chroma/issues/722 */
+.highlight .chroma .lntable .lntd + .lntd {
+  width: 100%;
+}
+
+/* Partial decorators */
+/* ------------------------------------------------------------------------- */
+
+/* 1. Section Decorator Styling */
+.content-section {
+    padding: 3rem 1.5rem;
+    background-color: #f9f9fb;
+    border-bottom: 1px solid #eaecef;
+}
+
+.section-label {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    color: #1a202c;
+    text-align: center;
+}
+
+/* 2. Grid & Column Layout logic */
+.grid-wrapper {
+    display: grid;
+    /* Uses a responsive grid that automatically adjusts columns */
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Example class passed via dict "class" "col-half" */
+.col-half {
+    grid-column: span 1; /* Default for auto-fill */
+}
+
+/* Fallback/Default for columns if no class is provided */
+.column-default {
+    flex: 1;
+}
+
+/* 3. Card Decorator Styling */
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Ensures cards in the same row are equal height */
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    margin: 0;
+    padding: 1.25rem 1.25rem 0.5rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+}
+
+.card-title a {
+    color: #2d3748;
+    text-decoration: none;
+}
+
+.card-title a:hover {
+    color: #3182ce;
+}
+
+.card-body {
+    padding: 0 1.25rem 1.25rem;
+    flex-grow: 1; /* Pushes the footer to the bottom */
+    color: #4a5568;
+    line-height: 1.6;
+}
+
+.card-footer {
+    padding: 1rem 1.25rem;
+    background-color: #f7fafc;
+    border-top: 1px solid #edf2f7;
+}
+
+.card-footer a {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #3182ce;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+/* Responsive adjustment for small screens */
+@media (max-width: 640px) {
+    .grid-wrapper {
+        grid-template-columns: 1fr;
+    }
+}

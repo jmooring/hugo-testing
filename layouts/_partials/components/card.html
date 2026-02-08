@@ -1,0 +1,21 @@
+<div class="card">
+  {{ with .title }}
+    <h2 class="card-title">
+      {{ if $.url }}
+        <a href="{{ $.url }}">{{ . }}</a>
+      {{ else }}
+        {{ . }}
+      {{ end }}
+    </h2>
+  {{ end }}
+
+  <div class="card-body">
+    {{ templates.Inner .page }}
+  </div>
+
+  {{ with .url }}
+    <div class="card-footer">
+      <a href="{{ . }}">Read more</a>
+    </div>
+  {{ end }}
+</div>

@@ -9,7 +9,19 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ with partial "components/section.html" (dict "page" . "label" "Recent Posts") }}
+    <div class="grid-wrapper">
+      {{ range site.RegularPages }}
+        {{ with partial "components/column.html" (dict "page" . "class" "col-half") }}
+          {{ with partial "components/card.html" (dict "page" . "url" .RelPermalink "title" .LinkTitle) }}
+            <p>
+              {{ .Content | plainify | strings.Truncate 240 }}
+            </p>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
   {{ end }}
+
 {{ end }}
