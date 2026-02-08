@@ -1,15 +1,40 @@
 {{ define "main" }}
-  {{ with .Params.details }}
-    <p>Details: <a href="{{ . }}">{{ . }}</a></p>
-  {{ end }}
-  {{ with .Params.description }}
-    <p>Description: {{ . }}</p>
-  {{ end }}
-  {{ with or .Params.url .Params.details }}
-    <hr>
-  {{ end }}
-  {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+  <div class="home-content">
+
+    {{ if or .Params.details .Params.description }}
+      <div class="not-prose bg-slate-100/50 border border-slate-200/60 rounded-xl p-6 mb-12">
+        {{ with .Params.details }}
+          <div class="mb-5 last:mb-0">
+            <span class="block text-xs font-bold uppercase tracking-widest text-slate-400 mb-1.5">Details</span>
+            <a href="{{ . }}" class="text-blue-600 font-semibold break-all hover:underline decoration-2 underline-offset-4">{{ . }}</a>
+          </div>
+        {{ end }}
+        {{ with .Params.description }}
+          <div class="last:mb-0">
+            <span class="block text-xs font-bold uppercase tracking-widest text-slate-400 mb-1.5">Description</span>
+            <p class="text-lg text-slate-700 leading-relaxed font-medium">{{ . }}</p>
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <div class="prose-p:mt-0 mb-16">
+      {{ .Content }}
+    </div>
+
+    {{ with partial "components/section.html" (dict "page" . "label" "Recent Posts") }}
+      <div class="flex flex-wrap -mx-3">
+        {{ range site.RegularPages.Reverse }}
+          {{ with partial "components/column.html" (dict "page" . "class" "md:w-1/2") }}
+            {{ with partial "components/card.html" (dict "page" . "url" .RelPermalink "title" .LinkTitle) }}
+              <p class="text-slate-500 text-sm mt-1 leading-relaxed line-clamp-3">
+                {{ .Content | plainify | strings.Truncate 240 }}
+              </p>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+    {{ end }}
+
+  </div>
 {{ end }}

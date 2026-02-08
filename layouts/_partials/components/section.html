@@ -1,0 +1,8 @@
+<div class="not-prose mt-12 pt-10 border-t-2 border-slate-300">
+  {{ with .label }}
+    <h2 class="text-xs font-bold uppercase tracking-widest text-slate-400 mb-6">
+      {{ . }}
+    </h2>
+  {{ end }}
+  {{ templates.Inner .page }}
+</div>

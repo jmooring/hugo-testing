@@ -4,14 +4,31 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+  {{ with (templates.Defer (dict "key" "global")) }}
+    {{ partial "head/css.html" . }}
+  {{ end }}
 </head>
-<body>
-  <header>
-    <h1><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
-    <hr>
-  </header>
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
+<body class="bg-slate-50 text-slate-900 antialiased min-h-screen">
+  <div class="max-w-4xl mx-auto px-6 py-10 md:py-16">
+
+    <header class="mb-10">
+      {{ if .IsHome }}
+        <h1 class="text-4xl font-black tracking-tighter hover:text-blue-600 transition-colors">
+          <a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
+        </h1>
+      {{ else }}
+        <div class="text-4xl font-black tracking-tighter hover:text-blue-600 transition-colors">
+          <a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
+        </div>
+      {{ end }}
+
+      {{ partial "navigation/menu.html" . }}
+    </header>
+
+    <main class="prose prose-slate max-w-none prose-hr:border-t-2 prose-hr:border-slate-300">
+      {{ block "main" . }}{{ end }}
+    </main>
+
+  </div>
 </body>
 </html>

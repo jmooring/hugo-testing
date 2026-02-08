@@ -1,0 +1,21 @@
+<div class="bg-white border border-slate-200 rounded-xl p-6 h-full shadow-sm flex flex-col not-prose">
+  {{ with .title }}
+    <h2 class="text-2xl font-bold mb-2 text-slate-900">
+      {{ if $.url }}
+        <a href="{{ $.url }}" class="hover:text-blue-600 transition-colors no-underline">{{ . }}</a>
+      {{ else }}
+        {{ . }}
+      {{ end }}
+    </h2>
+  {{ end }}
+
+  <div class="flex-grow text-slate-600">
+    {{ templates.Inner .page }}
+  </div>
+
+  {{ with .url }}
+    <div class="mt-4">
+      <a href="{{ . }}" class="text-blue-600 font-medium hover:underline text-sm uppercase tracking-wider">Read more →</a>
+    </div>
+  {{ end }}
+</div>
