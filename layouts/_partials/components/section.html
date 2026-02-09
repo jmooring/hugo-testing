@@ -3,6 +3,10 @@
     <h2 class="section-label">{{ . }}</h2>
   {{ end }}
   <div class="section-content">
-    {{ templates.Inner . }}
+    <div class="grid-wrapper">
+      {{ range .pageCollection }}
+        {{ templates.Inner . }}
+      {{ end }}
+    </div>
   </div>
 </section>

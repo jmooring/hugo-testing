@@ -2,25 +2,20 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 
+  {{ $ctx := dict
+    "page" .
+    "label" "Recent Posts"
+    "pageCollection" .RegularPages
+  }}
 
-{{ $ctx := dict
-  "page" .
-  "label" "Recent Posts"
-  "pageCollection" .RegularPages
-}}
-
-{{ with partial "components/section.html" $ctx }}
-  <div class="grid-wrapper">
-    {{ range .pageCollection }}
-      {{ with partial "components/column.html" (dict "page" . "class" "col-half") }}
-        {{ with partial "components/card.html" (dict "page" .page "url" .page.RelPermalink "title" .page.LinkTitle) }}
-          <p>
-            {{ .page.Content | plainify | strings.Truncate 240 }}
-          </p>
-        {{ end }}
+  {{ with partial "components/section.html" $ctx }}
+    {{ with partial "components/column.html" (dict "page" . "class" "col-half") }}
+      {{ with partial "components/card.html" (dict "page" .page "url" .page.RelPermalink "title" .page.LinkTitle) }}
+        <p>
+          {{ .page.Content | plainify | strings.Truncate 240 }}
+        </p>
       {{ end }}
     {{ end }}
-  </div>
-{{ end }}
+  {{ end }}
 
 {{ end }}
