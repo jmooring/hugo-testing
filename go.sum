@@ -1,0 +1,6 @@
+github.com/alpinejs/alpine v2.6.0+incompatible/go.mod h1:BKI81egATMnaKqFeX5HEfYMnjZjcjcZmrYAu5Nck+EY=
+github.com/gohugoio/hugo-mod-jslibs/alpinejs v0.5.0/go.mod h1:XvAGp/0tQ8bZpoCcM6rdx1NbzZUy3/KtetedtdgaNek=
+github.com/gohugoio/hugoTestModule2 v0.0.0-20260213125106-4a3636308e43 h1:6viqfCA7wJcVKbuKme/GDWbi4bxrmUJRGgcxIx6Iy4M=
+github.com/gohugoio/hugoTestModule2 v0.0.0-20260213125106-4a3636308e43/go.mod h1:Udzc3Cm92gKcTnQNch0Y9npXWaSknDbEYEv6fxFBu6w=
+github.com/jmooring/hugo-module-forum-topic-56376 v0.3.0 h1:6FOTdUmihUgMAUdKucgbUQDsjqaa2bnFCynnFhejbs0=
+github.com/jmooring/hugo-module-forum-topic-56376 v0.3.0/go.mod h1:CUUnbor/egXc4cG+2e5CF210WfxIJ6osZHff99BU7OQ=
