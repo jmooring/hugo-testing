@@ -1,0 +1,4 @@
+baseURL      = 'https://example.org/'
+languageCode = 'en-US'
+title        = '@@TITLE@@'
+disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
