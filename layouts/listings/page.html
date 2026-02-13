@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ $p := (site.GetPage "/cars").RegularPages }}
+  {{ $p = where $p "Params.km_driven" "ge" $.Params.km_driven.min }}
+  {{ $p = where $p "Params.km_driven" "le" $.Params.km_driven.max }}
+
+  {{ range $p }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> ({{ fmt.Printf "%s km" (.Params.km_driven | lang.FormatNumber 0) }})</h2>
+  {{ end }}
+
+{{ end }}

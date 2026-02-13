@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ with .GetTerms "colors" }}
+    <p>Color:
+      {{ range . }}
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      {{ end }}
+    </p>
+  {{ end }}
+  <p>Kilometers driven: {{ .Params.km_driven | lang.FormatNumber 0 }}</p>
+  {{ .Content }}
+{{ end }}

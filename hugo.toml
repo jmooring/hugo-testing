@@ -1,3 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
 title = 'Hugo Forum Topic #56717'
+
+disableKinds = ['rss','sitemap']
+
+[taxonomies]
+  color = 'colors'
