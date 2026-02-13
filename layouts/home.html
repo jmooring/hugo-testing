@@ -12,4 +12,17 @@
   {{ range site.RegularPages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
   {{ end }}
+
+  <h2>hugo.Sites</h2>
+  {{ if .Site.IsDefault }}
+    {{ range hugo.Sites }}
+      {{ .Language.Name | warnf "hugo.Sites: %#[2]v (%[2]T) [%[1]d]" math.Counter }}
+    {{ end }}
+  {{ end }}
+
+  <h2>site.Sites</h2>
+  {{ range site.Sites }}
+    {{ .Language.Name | warnf "site.Sites: %#[2]v (%[2]T) [%[1]d]" math.Counter }}
+  {{ end }}
+
 {{ end }}
