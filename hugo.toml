@@ -33,3 +33,6 @@ defaultContentLanguageInSubdir = true
 
 [outputs]
   home = ['html', 'htaccess']
+
+[module.hugoVersion]
+min = '0.156.0'
