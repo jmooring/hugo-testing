@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo Forum Topic #56733
 
-Details: <@@URL@@>
+Details: <https://discourse.gohugo.io/t/56733>
 
-Description: @@DESCRIPTION@@
+Description: Tailwind parcel watcher issue
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-forum-topic-56733 https://github.com/jmooring/hugo-testing hugo-forum-topic-56733
+cd hugo-forum-topic-56733
 hugo server
 ```
