@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/56733'
 description = "Tailwind parcel watcher issue"
 +++
+
+This is content/_index.md.

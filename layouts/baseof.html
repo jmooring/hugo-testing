@@ -4,13 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+  {{ with (templates.Defer (dict "key" "global")) }}
+    {{ partial "css.html" . }}
+  {{ end }}
 </head>
-<body>
-  <header>
-    <h1><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
-    <hr>
+<body class="bg-slate-50 min-h-screen py-12 px-6 flex flex-col items-center">
+  <header class="prose prose-slate lg:prose-xl mb-8 w-full max-w-2xl">
+    <h1 class="text-indigo-600"><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
+    <hr class="border-indigo-100">
   </header>
-  <main>
+  <main class="prose prose-slate bg-white p-8 rounded-xl shadow-sm border border-slate-200 w-full max-w-2xl">
     {{ block "main" . }}{{ end }}
   </main>
 </body>
