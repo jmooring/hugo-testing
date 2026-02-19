@@ -1,4 +1,15 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+{{ with .Site.RegularPages.Related . | first 5 }}
+  <p>Related pages:</p>
+  <ul>
+    {{ range . }}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}
+
+
   {{ .Content }}
 {{ end }}

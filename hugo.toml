@@ -1,3 +1,70 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo Forum Topic #56741'
+baseURL      = 'https://example.org/'
+disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
+
+defaultContentLanguage         = 'en'
+defaultContentLanguageInSubdir = true
+
+# -----------------------------------------------------------------------------
+# Languages
+# -----------------------------------------------------------------------------
+
+[languages.en]
+  languageCode      = 'en-US'
+  languageDirection = 'ltr'
+  languageName      = 'English'
+  weight            = 1
+  title             = 'Hugo Forum Topic #56741 (en)'
+
+[languages.de]
+  languageCode      = 'de-DE'
+  languageDirection = 'ltr'
+  languageName      = 'Deutsch'
+  weight            = 2
+  title             = 'Hugo Forum Topic #56741 (de)'
+
+[languages.fr]
+  languageCode      = 'fr-FR'
+  languageDirection = 'ltr'
+  languageName      = 'Français'
+  weight            = 3
+  title             = 'Hugo Forum Topic #56741 (fr)'
+
+# -----------------------------------------------------------------------------
+# Cascade
+# -----------------------------------------------------------------------------
+
+[[cascade]]
+  [cascade.sites.complements]
+    languages = ['de', 'fr']
+  [cascade.target.sites.matrix]
+    languages = ['en']
+
+# -----------------------------------------------------------------------------
+# Menus
+# -----------------------------------------------------------------------------
+
+[[menus.main]]
+  name    = 'Home'
+  pageRef = '/'
+  weight  = 10
+
+[[menus.main]]
+  name    = 'Docs'
+  pageRef = '/docs'
+  weight  = 20
+
+[[menus.main]]
+  name    = 'Help'
+  pageRef = '/help'
+  weight  = 30
+
+# -----------------------------------------------------------------------------
+# Related
+# -----------------------------------------------------------------------------
+
+[related]
+  includeNewer = true
+  threshold = 80
+  [[related.indices]]
+    name = 'tags'
+    weight = 80
