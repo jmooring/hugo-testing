@@ -1,0 +1,26 @@
+{{- with $index := .Get 0 }}
+  {{- with $gallery := index $.Page.Params.gallery $index }}
+    <section>
+      {{- with .headline}}
+        <h2>{{ . }}</h2>
+      {{- else }}
+        {{- errorf "The %q shortcode was unable to find the headline for the gallery with index %s: see %s" $.Name $index $.Position }}
+      {{- end }}
+      <div class="gallery">
+        {{- range .images }}
+          {{- if and .caption .id .image .thumb }}
+            <img src="{{ .thumb }}" id="{{ .id }}" width="360px" height="260px" alt="{{ .caption }}" class="galleryimage cursor" data-image="{{ .image }}">
+          {{- else }}
+            {{- errorf "The %q shortcode was unable to find the required fields for an image in the gallery with index %s: see %s" $.Name $index $.Position }}
+          {{- end }}
+        {{- else }}
+          {{- errorf "The %q shortcode was unable to find any images for the gallery with index %s: see %s" $.Name $index $.Position }}
+        {{- end }}
+      </div>
+    </section>
+  {{- else }}
+    {{- errorf "The %q shortcode was unable to find a gallery with index %s: see %s" $.Name $index $.Position }}
+  {{- end }}
+{{- else }}
+  {{- errorf "The %q shortcode requires a positional parameter, the id of the gallery as defined in the page's front matter: see %s" .Name .Position }}
+{{- end }}
