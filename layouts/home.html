@@ -9,7 +9,9 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
+
+  {{ $json := .Site.Data.bio | jsonify (dict "indent" "  " "noHTMLEscape" "true") }}
+  {{ $hl := transform.Highlight $json "json" "style=friendly" }}
+  {{ strings.Replace $hl "\\&#34;" `"` | htmlUnescape | safeHTML }}
+
 {{ end }}

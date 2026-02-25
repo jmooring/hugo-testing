@@ -1,0 +1,6 @@
+{
+  "contact": {
+    "email": "<a href=\"mailto:grim@reaperworld.com\">grim@reaperworld.com</a>",
+    "something": "two <a href=foo>foo bar</a> words"
+  }
+}
