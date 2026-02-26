@@ -9,7 +9,25 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  <pre>
+    {{- range resources.Match "**" }}
+      {{- if reflect.IsImageResourceWithMeta . }}
+        {{ printf "Name: %s, Width: %d, Height: %d" .Name .Width .Height }}
+        {{ with .Meta }}
+          {{ printf "Date: %s" .Date }}
+          {{ with .Exif }}{{ printf "EXIF Description: %s" .ImageDescription }}{{ end }}
+        {{- end }}
+      {{- else }}
+        {{ printf "Name: %s, IsImageResourceWithMeta: false" .Name }}
+      {{- end }}
+    {{ end }}
+  </pre>
+
+  <hr>
+
+  <pre>
+  {{ range resources.Match "**" }}
+    {{ printf "Name: %s, IsImageResourceWithMeta: %t" .Name (reflect.IsImageResourceWithMeta .) }}
   {{ end }}
+  </pre>
 {{ end }}
