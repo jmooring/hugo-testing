@@ -9,25 +9,48 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  <pre>
-    {{- range resources.Match "**" }}
-      {{- if reflect.IsImageResourceWithMeta . }}
-        {{ printf "Name: %s, Width: %d, Height: %d" .Name .Width .Height }}
-        {{ with .Meta }}
-          {{ printf "Date: %s" .Date }}
-          {{ with .Exif }}{{ printf "EXIF Description: %s" .ImageDescription }}{{ end }}
-        {{- end }}
-      {{- else }}
-        {{ printf "Name: %s, IsImageResourceWithMeta: false" .Name }}
-      {{- end }}
+
+  {{ $fileFormats := slice }}
+  {{ range resources.Match "**" -}}
+    {{ $format := .MediaType.SubType }}
+    {{ if eq $format "vnd.microsoft.icon" }}
+      {{ $format = "ICO" }}
+    {{ else if eq $format "webp" }}
+      {{ $format = "WebP" }}
+    {{ else }}
+      {{ $format = strings.ToUpper $format }}
     {{ end }}
-  </pre>
+    {{ $isImageResource := cond (reflect.IsImageResource .) "true" "**false**" }}
+    {{ $isImageResourceProcessable := cond (reflect.IsImageResourceProcessable .) "true" "**false**" }}
+    {{ $isImageResourceWithMeta := cond (reflect.IsImageResourceWithMeta .) "true" "**false**" }}
+    {{ $m := dict
+        "format" $format
+        "isImageResource" $isImageResource
+        "isImageResourceProcessable" $isImageResourceProcessable
+        "isImageResourceWithMeta" $isImageResourceWithMeta
+    }}
+    {{ $fileFormats = $fileFormats | append $m }}
+  {{ end -}}
 
-  <hr>
+  {{ $h := slice "Format" "IsImageResource" "IsImageResourceProcessable" "IsImageResourceWithMeta" }}
 
   <pre>
-  {{ range resources.Match "**" }}
-    {{ printf "Name: %s, IsImageResourceWithMeta: %t" .Name (reflect.IsImageResourceWithMeta .) }}
-  {{ end }}
+{{ printf "|%s|%s|%s|%s|" (index $h 0) (index $h 1) (index $h 2) (index $h 3) }}
+{{ printf "|:%s|:%s|:%s|:%s|" (strings.Repeat (sub (len (index $h 0)) 1) "-" ) (strings.Repeat (sub (len (index $h 1)) 1) "-" ) (strings.Repeat (sub (len (index $h 2)) 1) "-" ) (strings.Repeat (sub (len (index $h 3)) 1) "-" ) }}
+{{ range (sort $fileFormats "format") -}}
+{{ printf "|%-6s|%-15s|%-26s|%-23s|" .format .isImageResource .isImageResourceProcessable .isImageResourceWithMeta }}
+{{ end -}}
   </pre>
+
+
+  {{ $h := slice "Format" "IsImageResourceProcessable" "IsImageResourceWithMeta" }}
+
+  <pre>
+{{ printf "|%s|%s|%s|" (index $h 0) (index $h 1) (index $h 2) }}
+{{ printf "|:%s|:%s|:%s|" (strings.Repeat (sub (len (index $h 0)) 1) "-" ) (strings.Repeat (sub (len (index $h 1)) 1) "-" ) (strings.Repeat (sub (len (index $h 2)) 1) "-" ) }}
+{{ range (sort $fileFormats "format") -}}
+{{ printf "|%-6s|%-26s|%-23s|" .format .isImageResourceProcessable .isImageResourceWithMeta }}
+{{ end -}}
+  </pre>
+
 {{ end }}
