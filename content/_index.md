@@ -5,3 +5,12 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/14604'
 description = "Add css.InlineImports"
 +++
+
+This paragraph is red.
+{.red}
+
+This paragraph is green.
+{.green}
+
+This paragraph is blue.
+{.blue}

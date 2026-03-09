@@ -1,0 +1,9 @@
+@import url('https://cdn.jsdelivr.net/npm/reset-css@5.0.2/reset.min.css');
+
+@import '/assets/css/colors/red.css' screen and (min-width: 800px);
+@import '/assets/css/colors/green.css' supports(display: grid);
+@import 'assets/css/colors/blue.css' layer(base);
+
+::placeholder {
+  color: gray;
+}
