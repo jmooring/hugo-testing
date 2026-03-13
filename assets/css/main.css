@@ -1,0 +1,9 @@
+@import "node_modules/my-pkg/dist/css/index.css";
+
+.b {
+  background-image: url('../images/b.jpg');
+}
+
+.c {
+  background-image: url('../images/c.png');
+}
