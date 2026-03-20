@@ -1,0 +1,17 @@
+{{ with .Rotate "language" }}
+  <nav class="nav-inline language-selector">
+    <ul>
+      {{ range . }}
+        {{ if eq .Language $.Language }}
+          <li class="active">
+            <a aria-current="page" href="{{ .Permalink }}" hreflang="{{ .Language.Locale }}">{{ .Language.Label }}</a>
+          </li>
+        {{ else }}
+          <li>
+            <a href="{{ .Permalink }}" hreflang="{{ .Language.Locale }}">{{ .Language.Label }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </nav>
+{{ end }}
