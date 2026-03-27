@@ -7,4 +7,4 @@ disableKinds = ['rss','sitemap']
 category = 'categories'
 
 [module.hugoVersion]
-min = '0.147.5'
+min = '0.159.0'

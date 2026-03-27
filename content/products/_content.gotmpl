@@ -1,29 +1,40 @@
-{{ range site.Data.products }}
+{{ $path := "data/products.json" }}
+{{ with resources.Get $path }}
+  {{ with try (. | transform.Unmarshal) }}
+    {{ with .Err }}
+      {{ errorf "Failed to unmarshal %s: %s" $path .Err }}
+    {{ else }}
+      {{ range .Value }}
 
-  {{/* Add page. */}}
-  {{ $content := dict "mediaType" "text/markdown" "value" .description }}
-  {{ $params := dict "sku" .sku "categories" .categories "price" .price }}
-  {{ $page := dict
-    "content" $content
-    "kind" "page"
-    "params" $params
-    "path" .name
-    "title" .name
-  }}
-  {{ $.AddPage $page }}
+        {{/* Add page. */}}
+        {{ $content := dict "mediaType" "text/markdown" "value" .description }}
+        {{ $params := dict "sku" .sku "categories" .categories "price" .price }}
+        {{ $page := dict
+          "content" $content
+          "kind" "page"
+          "params" $params
+          "path" .name
+          "title" .name
+        }}
+        {{ $.AddPage $page }}
 
-  {{/* Add page resource. */}}
-  {{ $product := . }}
-  {{ range resources.Match (printf "images/products/%s/*.*" .sku) }}
-    {{ $content := dict
-      "mediaType" .MediaType.Type
-      "value" .Content
-    }}
-    {{ $resource := dict
-      "content" $content
-      "path" (printf "%s/%s" $product.name (path.Base .Name))
-    }}
-    {{ $.AddResource $resource }}
-  {{ end }}
+        {{/* Add page resource. */}}
+        {{ $product := . }}
+        {{ range resources.Match (printf "images/products/%s/*.*" .sku) }}
+          {{ $content := dict
+            "mediaType" .MediaType.Type
+            "value" .Content
+          }}
+          {{ $resource := dict
+            "content" $content
+            "path" (printf "%s/%s" $product.name (path.Base .Name))
+          }}
+          {{ $.AddResource $resource }}
+        {{ end }}
 
-{{ end }}
+      {{ end }} {{/* range */}}
+    {{ end }} {{/* with .Err */}}
+  {{ end }} {{/* with try */}}
+{{ else }}
+  {{ errorf "Unable to find %s" $path }}
+{{ end }} {{/* with resources.Get */}}

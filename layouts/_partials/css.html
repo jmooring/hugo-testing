@@ -1,10 +1,13 @@
-{{ with resources.Get "sass/main.scss" }}
-  {{ $opts := dict "targetPath" "css/main.css" }}
-  {{ with . | toCSS $opts }}
+{{ with resources.Get "css/main.css" }}
+  {{ $opts := dict
+    "minify" (cond hugo.IsDevelopment false true)
+    "sourceMap" (cond hugo.IsDevelopment "linked" "none")
+  }}
+  {{ with . | css.Build $opts }}
     {{ if hugo.IsDevelopment }}
       <link rel="stylesheet" href="{{ .RelPermalink }}">
     {{ else }}
-      {{ with . | minify | fingerprint }}
+      {{ with . | fingerprint }}
         <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
       {{ end }}
     {{ end }}
