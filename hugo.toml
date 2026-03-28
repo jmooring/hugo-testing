@@ -1,3 +1,6 @@
 baseURL = 'https://example.org/'
 locale = 'en-US'
 title = 'Hugo Forum Topic #56930'
+
+[markup.asciidocExt.attributes]
+source-highlighter = 'rouge'

@@ -5,3 +5,12 @@ draft = false
 details = 'https://discourse.gohugo.io/t/56930'
 description = "Force the dark theme / syntax highlighter Monokai over the light default"
 +++
+
+[#hello,ruby]
+----
+require 'sinatra'
+
+get '/hi' do
+  "Hello World!"
+end
+----
