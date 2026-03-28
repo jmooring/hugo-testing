@@ -5,3 +5,5 @@ draft = false
 details = 'https://discourse.gohugo.io/t/56370'
 description = "New Chrome feature breaks PDF viewing"
 +++
+
+[foo](/docs/bar.pdf)
