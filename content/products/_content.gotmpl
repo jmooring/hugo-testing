@@ -23,7 +23,7 @@
         {{ range resources.Match (printf "images/products/%s/*.*" .sku) }}
           {{ $content := dict
             "mediaType" .MediaType.Type
-            "value" .Content
+            "value" .
           }}
           {{ $resource := dict
             "content" $content
