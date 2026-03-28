@@ -1,3 +1,14 @@
-baseURL = 'https://example.org/'
-locale = 'en-US'
-title = 'Hugo GitHub Issue #14681'
+capitalizeListTitles = false
+pluralizeListTitles = false
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+contentDir = "content/en"
+weight = 1
+
+[languages.de]
+contentDir = "content/de"
+weight = 2
