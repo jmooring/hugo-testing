@@ -2,13 +2,17 @@ capitalizeListTitles = false
 pluralizeListTitles = false
 disableKinds = ['rss','sitemap','taxonomy','term']
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
+
+[languages.fr]
+contentDir = "content/fr"
+weight = 1
 
 [languages.en]
 contentDir = "content/en"
-weight = 1
+weight = 2
 
 [languages.de]
 contentDir = "content/de"
-weight = 2
+weight = 3
