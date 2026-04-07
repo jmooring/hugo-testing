@@ -1,0 +1,14 @@
+{{ with .Ancestors.Reverse }}
+  <nav class="nav-inline breadcrumbs">
+    <ol>
+      {{ $p := . | append $ }}
+      {{ range $k, $_ := $p }}
+        {{ if eq $k (sub (len $p) 1) }}
+          <li><a aria-current="page" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ else }}
+          <li><a aria-current="true" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ol>
+  </nav>
+{{ end }}
