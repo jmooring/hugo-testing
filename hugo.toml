@@ -1,33 +1,31 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'Hugo GitHub Issue #12440'
-
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = '0.141.0'
+locale  = 'en-US'
+title   = 'Hugo GitHub Issue #12440'
 
 [caches.getresource]
-dir = ':resourceDir/'
-maxAge = '168h'
+  dir    = ':resourceDir/'
+  maxAge = '168h'
+
+[[menus.main]]
+  name    = 'Home'
+  pageRef = '/'
+  weight  = 10
+
+[[menus.main]]
+  name    = 'Books'
+  pageRef = '/books'
+  weight  = 20
+
+[[menus.main]]
+  name    = 'Posts'
+  pageRef = '/posts'
+  weight  = 30
+
+[module.hugoVersion]
+  min = '0.160.0'
 
 [services.rss]
-limit = 100
+  limit = 100
 
 [taxonomies]
-tag = 'tags'
-
-[[menus.main]]
-name = 'Home'
-pageRef = '/'
-weight = 10
-
-[[menus.main]]
-name = 'Books'
-pageRef = '/books'
-weight = 20
-
-[[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
-weight = 30
+  tag = 'tags'

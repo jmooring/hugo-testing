@@ -3,7 +3,7 @@
   {{ .Content }}
   {{ range (.Paginate .Pages.ByTitle).Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Render "summary" }}
+    {{ .Render "view_summary" }}
   {{ end }}
   <nav class="pagination">
     {{ template "_internal/pagination.html" . }}
