@@ -1,0 +1,16 @@
+{{ $processingSpec := .processingSpec }}
+{{ range .page.Params.images }}
+  {{ with $oi := resources.GetMatch (printf "images/%s.*" .uid) }}
+    {{ if reflect.IsImageResourceProcessable . }}
+      {{ with .Process $processingSpec }}
+        <a href="{{ $oi.RelPermalink }}">
+          <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+        </a>
+      {{ end }}
+    {{ else }}
+      {{ warnf "Resource with UID %q is not an image or cannot be processed." .uid }}`
+    {{ end }}
+  {{ else }}
+    {{ warnf "Image with UID %q not found in resources." .uid }}
+  {{ end }}
+{{ end }}

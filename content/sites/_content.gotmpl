@@ -1,0 +1,48 @@
+{{ $sites := dict }}
+{{ $dataFilePath := "data/docs.json" }}
+
+{{ with resources.Get $dataFilePath }}
+  {{ with try (transform.Unmarshal .) }}
+    {{ with .Err }}
+      {{ errorf "Error parsing data from %q: %s" $dataFilePath . }}
+    {{ else }}
+      {{ $sites = .Value }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Data file %q not found in resources." $dataFilePath }}
+{{ end }}
+
+{{ range $sites }}
+
+  {{ $content := dict
+    "mediaType" "text/markdown"
+    "value" ""
+  }}
+
+  {{ $images := slice }}
+  {{ range .u2ers_site_files }}
+    {{ range .images }}
+      {{ $m := dict "uid" .uid "tag" .tags}}
+      {{ $images = $images | append $m }}
+    {{ end }}
+  {{ end }}
+
+  {{ $params := dict
+    "at_condition" .at_condition
+    "at_dated_as" .at_dated_as
+    "at_governorate" .at_governorate
+    "at_reference" .at_reference
+    "images" $images
+  }}
+
+  {{ $page := dict
+    "content" $content
+    "kind" "page"
+    "params" $params
+    "path" .site_id
+    "title" .site_name
+  }}
+  {{ $.AddPage $page }}
+
+{{ end }}
