@@ -1,6 +1,0 @@
-[[module.mounts]]
-  source = 'content/operation-manual'
-  target = 'content/'
-[[module.mounts]]
-  source = 'content/changelogs'
-  target = 'content/changelogs'
