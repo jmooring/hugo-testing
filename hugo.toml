@@ -1,3 +1,10 @@
-baseURL = 'https://example.org/'
-locale = 'en-US'
-title = '@@TITLE@@'
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[permalinks.page]
+s1 = "/:sections[1:]/:slugorcontentbasename/"
+
+[permalinks.section]
+s1 = "/:sections[1:]/"
+
+[module.hugoVersion]
+min = '0.160.1'
