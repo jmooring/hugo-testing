@@ -5,28 +5,25 @@ defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 
 [languages.en]
-contentDir = "content/en"
+direction = 'ltr'
+label = 'English'
+locale = 'en-US'
 weight = 1
 
 [languages.es]
-contentDir = "content/es"
+direction = 'ltr'
+label = 'Español'
+locale = 'es-ES'
 weight = 2
-
-# Default content mounts
 
 [[module.mounts]]
 source = "content/en"
 target = "content"
-lang = "en"
+[module.mounts.sites.matrix]
+languages = "**"
 
 [[module.mounts]]
 source = "content/es"
 target = "content"
-lang = "es"
-
-# Populate the missing es content with en content
-
-[[module.mounts]]
-source = "content/en"
-target = "content"
-lang = "es"
+[module.mounts.sites.matrix]
+languages = ["es"]
