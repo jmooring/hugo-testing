@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "url": "https://example.com/dashboard",
+    "text": "System Performance",
+    "line1": "CPU Usage: 24%",
+    "line2": "Memory: 4.2GB / 16GB",
+    "line3": "Uptime: 12 days",
+    "line4": "Status: Optimal",
+    "icon": "monitor-chart",
+    "color": "#4CAF50"
+  },
+  {
+    "id": 2,
+    "url": "https://example.com/alerts",
+    "text": "Security Overview",
+    "line1": "Threat Level: Low",
+    "line2": "Last Scan: 2 hours ago",
+    "line3": "Pending Updates: 0",
+    "line4": "Firewall: Active",
+    "icon": "shield-check",
+    "color": "#2196F3"
+  }
+]

@@ -9,7 +9,22 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  {{ range hugo.Data.services }}
+    <div class="service-item" style="border-left: 5px solid {{ .color }}; margin-bottom: 20px; padding: 10px;">
+      <h3>ID: {{ .id }} - {{ .text }}</h3>
+      <p><strong>URL:</strong> <a href="{{ .url | safeURL }}">{{ .url }}</a></p>
+
+      <ul>
+        <li>Line 1: {{ .line1 }}</li>
+        <li>Line 2: {{ .line2 }}</li>
+        <li>Line 3: {{ .line3 }}</li>
+        <li>Line 4: {{ .line4 }}</li>
+      </ul>
+
+      <p><strong>Icon:</strong> {{ .icon }}</p>
+      <p><strong>Hex Color:</strong> {{ .color }}</p>
+    </div>
   {{ end }}
+
 {{ end }}
