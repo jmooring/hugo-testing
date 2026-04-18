@@ -1,3 +1,30 @@
 baseURL = 'https://example.org/'
 locale = 'en-US'
-title = '@@TITLE@@'
+title = 'Hugo GitHub Issue #14768'
+
+capitalizeListTitles = false
+pluralizeListTitles = false
+
+[permalinks.page]
+  books = "/my-books/:contentbasename/"
+  films = "/my-films/:contentbasename/"
+
+[permalinks.section]
+  books = "/my-books/:contentbasename/"
+  films = "/my-films/:contentbasename/"
+
+[permalinks.term]
+  categories = "/my-catgegories/:contentbasename/"
+  tags = "/my-tags/:contentbasename/"
+
+[permalinks.taxonomy]
+  categories = "/my-catgegories/:contentbasename/"
+  tags = "/my-tags/:contentbasename/"
+
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'hugo.toml'
+target = 'assets/hugo.toml'

@@ -9,7 +9,38 @@
     <hr>
   {{ end }}
   {{ .Content }}
-  {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+  <h2>Permalinks configuration</h2>
+
+  {{ with resources.Get "hugo.toml" }}
+    {{ with transform.Unmarshal . }}
+      <pre>
+{{ jsonify (dict "indent" "  ") .permalinks }}
+      </pre>
+    {{ end }}
   {{ end }}
+
+  <h2>Content</h2>
+
+  <table>
+    <tr>
+      <th>Path</th>
+      <th>Kind</th>
+      <th>IsFile</th>
+      <th>BundleType</th>
+      <th>File.ContentBaseName</th>
+      <th>Permalink</th>
+    </tr>
+    {{ range site.Pages.ByTitle }}
+      <tr>
+        <td>{{ .Path }}</td>
+        <td>{{ .Kind }}</td>
+        <td>{{ cond .File "true" "false" }}</td>
+        <td>{{ .BundleType }}</td>
+        <td>{{ with .File }}{{ .ContentBaseName }}{{ end }}</td>
+        <td>{{ .RelPermalink }}</td>
+      </tr>
+    {{ end }}
+  </table>
+
 {{ end }}
