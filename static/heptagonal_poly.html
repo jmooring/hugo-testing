@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: transparent;
+            overflow: hidden;
+            font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+        h1 {
+            font-size: 4.5rem;
+            font-weight: 900;
+            margin: 0;
+            letter-spacing: -2px;
+            /* This helps hide "pixel stepping" in colors */
+            text-rendering: optimizeLegibility;
+            -webkit-font-smoothing: antialiased;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 id="rainbow-text">Hello world!</h1>
+
+    <script>
+        const el = document.getElementById('rainbow-text');
+
+        // Settings
+        const cycleDuration = 6000; // 6 seconds for a full rainbow loop (Smooth & Slow)
+
+        function updateColor(timestamp) {
+            // timestamp is provided by the browser in milliseconds
+            // This ensures the math is independent of the frame rate
+            const hue = (timestamp % cycleDuration) / cycleDuration * 360;
+
+            el.style.color = `hsl(${hue}, 100%, 50%)`;
+
+            requestAnimationFrame(updateColor);
+        }
+
+        // Initialize the smooth loop
+        requestAnimationFrame(updateColor);
+    </script>
+</body>
+</html>
