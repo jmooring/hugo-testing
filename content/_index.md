@@ -10,14 +10,14 @@ If PostCSS + Autoprefixer is working properly, you should see this when viewing 
 
 ```text {nohl=true}
 <style>
-html {
-  min-height: 100%
+::-webkit-input-placeholder {
+  color: gray;
 }
-body {
-  background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#333));
-  background: -webkit-linear-gradient(#fff, #333);
-  background: -moz-linear-gradient(#fff, #333);
-  background: linear-gradient(#fff, #333);
+:-ms-input-placeholder {
+  color: gray;
+}
+::placeholder {
+  color: gray;
 }
 </style>
 ```
