@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-US'
+locale = 'en-US'
 title = 'Hugo GitHub Issue #10842'
-disableKinds = ['RSS','sitemap']
+disableKinds = ['rss','sitemap','taxonomy','term']
 
 enableGitInfo = true
 
@@ -19,3 +19,6 @@ notAlternative = true
 
 [outputs]
 home = ['html','lastmod']
+
+[module.hugoVersion]
+min = '0.160.0'
