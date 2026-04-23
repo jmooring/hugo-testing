@@ -1,7 +1,7 @@
 +++
 title = 'Home'
-date = 2023-01-01T00:00:00-00:00
+date = 2026-04-23T10:05:41-07:00
 draft = false
-details = '@@URL@@'
-description = "@@DESCRIPTION@@"
+details = 'https://github.com/gohugoio/hugo/issues/14243'
+description = "langs/i18n: Improve default content language fallback"
 +++
