@@ -1,6 +1,8 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-US'
+locale = 'en-US'
 title = 'Hugo Module - Views (Examples)'
+
+disableKinds = ['rss','sitemap','taxonomy','term']
 
 summaryLength = 25
 
@@ -16,3 +18,6 @@ weight = 10
 name = 'Posts'
 pageRef = '/posts'
 weight = 20
+
+[module.hugoVersion]
+min = '0.160.0'
