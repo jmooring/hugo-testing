@@ -1,3 +1,33 @@
 baseURL = 'https://example.org/'
 locale = 'en-US'
 title = 'Hugo GitHub Issue #14352'
+
+disableKinds = ['rss','sitemap']
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+direction = 'ltr'
+label = 'English'
+locale = 'en-US'
+weight = 1
+
+[languages.de]
+locale = 'de-DE'
+direction = 'ltr'
+label = 'Deutsch'
+weight = 2
+
+[taxonomies]
+tag = 'tags'
+
+[[permalinks]]
+pattern = "/:sectionslugs/:slug/"
+[permalinks.target]
+kind = "page"
+
+[[permalinks]]
+pattern = "/:sectionslugs/"
+[permalinks.target]
+kind = "{section,taxonomy,term}"
