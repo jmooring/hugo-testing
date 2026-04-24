@@ -1,5 +1,5 @@
 +++
-title = 'Home'
+title = 'Home (de)'
 date = 2026-04-24T13:39:00-07:00
 draft = false
 details = 'https://github.com/gohugoio/hugo/issues/5161'
