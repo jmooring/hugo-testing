@@ -1,0 +1,6 @@
+{{- $type := "text" }}
+{{- if transform.CanHighlight .Type }}
+	{{- $type = .Type }}
+{{- end }}
+{{- $result := transform.HighlightCodeBlock (.WithType $type) }}
+{{- $result.Wrapped -}}
