@@ -1,4 +1,7 @@
-{{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ .Content }}
-{{ end }}
+<ul>
+	{{- range seq 1 4 }}
+		{{- with $.Resources.Get (printf "pdf-file-%d.pdf" .) }}
+			<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+		{{- end }}
+	{{- end }}
+</ul>
