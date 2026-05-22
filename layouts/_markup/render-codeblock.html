@@ -1,0 +1,6 @@
+{{- $opts := dict }}
+{{- if not (transform.CanHighlight .Type) }}
+  {{- $opts = dict "type" "text" }}
+{{- end }}
+{{- $result := transform.HighlightCodeBlock . $opts }}
+{{- $result.Wrapped }}

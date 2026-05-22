@@ -5,3 +5,42 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/14925'
 description = "markup/highlight: Allow overriding type and code via options"
 +++
+
+
+```
+if true {
+	fmt.Println("foo")
+}
+```
+
+---
+
+```{style=darcula class=my-class tabwidth=8}
+if true {
+	fmt.Println("foo")
+}
+```
+
+---
+
+``` {style=darcula class=my-class tabwidth=8}
+if true {
+	fmt.Println("bar")
+}
+```
+
+---
+
+```go {style=darcula class=my-class tabwidth=8}
+if true {
+	fmt.Println("foo")
+}
+```
+
+---
+
+{{< highlight go "style=darcula,class=my-class,tabwidth=8" >}}
+if true {
+	fmt.Println("foo")
+}
+{{< /highlight>}}
