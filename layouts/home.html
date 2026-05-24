@@ -10,23 +10,42 @@
 {{ end }}
 {{ .Content }}
 
+{{ $c := `
+{{- with resources.Get "images/banner.png" -}}
+	{{- with .Process "resize 400x" }}
+		<img src="{{ .RelPermalink }}">
+	{{- end -}}
+	{{- with .Process "resize 400x avif" -}}
+		<img src="{{ .RelPermalink }}">
+	{{- end -}}
+{{- end -}}
+` }}
+{{ transform.Highlight (strings.TrimSpace $c) "go-html-template" }}
+{{ (resources.FromString now.UnixNano $c | resources.ExecuteAsTemplate now.UnixNano $).Content | safeHTML }}
 
-{{ with resources.Get "images/parrot.avif" }}
-	{{ with .Process "resize 400x q50" }}
-		<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
-	{{ end }}
-{{ end }}
+{{ $c := `
+{{- with resources.Get "images/grand-canyon-national-park.jpg" -}}
+	{{- with .Process "resize 400x" }}
+		<img src="{{ .RelPermalink }}">
+	{{- end -}}
+	{{- with .Process "resize 400x avif" -}}
+		<img src="{{ .RelPermalink }}">
+	{{- end -}}
+{{- end -}}
+` }}
+{{ transform.Highlight (strings.TrimSpace $c) "go-html-template" }}
+{{ (resources.FromString now.UnixNano $c | resources.ExecuteAsTemplate now.UnixNano $).Content | safeHTML }}
 
-{{ with resources.Get "images/transparency.avif" }}
-	{{ with .Process "resize 400x bgcolor #f00" }}
-		<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
-	{{ end }}
-{{ end }}
-
-{{ with resources.Get "images/a.jpg" }}
-	{{ with .Process "resize 400x avif" }}
-		<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
-	{{ end }}
-{{ end }}
-
+{{ $c := `
+{{- with resources.Get "images/parrot.avif" -}}
+	{{- with .Process "resize 400x" }}
+		<img src="{{ .RelPermalink }}">
+	{{- end -}}
+	{{- with .Process "resize 400x webp" -}}
+		<img src="{{ .RelPermalink }}">
+	{{- end -}}
+{{- end -}}
+` }}
+{{ transform.Highlight (strings.TrimSpace $c) "go-html-template" }}
+{{ (resources.FromString now.UnixNano $c | resources.ExecuteAsTemplate now.UnixNano $).Content | safeHTML }}
 {{ end }}
