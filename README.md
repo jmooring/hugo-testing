@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo GitHub Issue #14948
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/14948>
 
-Description: @@DESCRIPTION@@
+Description: Localization broken for locales with partial month/day overrides
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-github-issue-14948 https://github.com/jmooring/hugo-testing hugo-github-issue-14948
+cd hugo-github-issue-14948
 hugo server
 ```
