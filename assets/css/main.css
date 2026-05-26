@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  margin: 0 1rem;
+  margin: 1rem;
   max-width: 768px;
 }
 
@@ -19,31 +19,26 @@ a {
   text-decoration: none;
 }
 
+img {
+  height: auto;
+  max-width: 100%
+}
+
 /* Navigation */
 /* ------------------------------------------------------------------------- */
 
-.nav-inline {
-  margin-bottom: 1rem;
-}
-
 .nav-inline ol,
 .nav-inline ul {
+  margin: 1rem 0;
   padding: 0;
 }
 
 .nav-inline li {
   display: inline;
+  padding-right: 1rem;
 }
 
-.nav-inline a {
-  padding: 0.25em 0.5em;
-}
-
-.nav-inline li:first-of-type a {
-  padding-left: 0;
-}
-
-.nav-inline li:last-of-type a {
+.nav-inline li:last-of-type {
   padding-right: 0;
 }
 
