@@ -1,15 +1,17 @@
-{{ define "main" }}
-{{ with .Params.details }}
-	<p>Details: <a href="{{ . }}">{{ . }}</a></p>
-{{ end }}
-{{ with .Params.description }}
-	<p>Description: {{ . }}</p>
-{{ end }}
-{{ with or .Params.url .Params.details }}
-	<hr>
-{{ end }}
-{{ .Content }}
-{{ range site.RegularPages }}
-	<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-{{ end }}
-{{ end }}
+{{ $dates := slice
+	"2025-01-17T10:42:00-08:00"
+	"2025-02-17T10:42:00-08:00"
+	"2025-03-17T10:42:00-07:00"
+	"2025-04-17T10:42:00-07:00"
+	"2025-05-17T10:42:00-07:00"
+	"2025-06-17T10:42:00-07:00"
+	"2025-07-17T10:42:00-07:00"
+	"2025-08-17T10:42:00-07:00"
+	"2025-09-17T10:42:00-07:00"
+	"2025-10-17T10:42:00-07:00"
+	"2025-11-17T10:42:00-08:00"
+	"2025-12-17T10:42:00-08:00"
+}}
+{{- range $dates }}
+	{{- time.Format "Jan" . }}|
+{{- end }}
