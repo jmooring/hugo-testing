@@ -6,4 +6,4 @@ details = 'https://discourse.gohugo.io/t/57211'
 description = "Tailwind CSS Failing when running ExampleSite"
 +++
 
-This is content/_index.md
+This is themes/my-theme/content/_index.md
