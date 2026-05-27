@@ -48,4 +48,21 @@
 ` }}
 {{ transform.Highlight (strings.TrimSpace $c) "go-html-template" }}
 {{ (resources.FromString now.UnixNano $c | resources.ExecuteAsTemplate now.UnixNano $).Content | safeHTML }}
+
+{{ $c := `
+{{- with resources.Get "images/transparency.avif" -}}
+	{{- with .Process "resize 200x #444" }}
+		<img src="{{ .RelPermalink }}">
+	{{- end -}}
+	{{- with .Process "resize 200x #444 webp" -}}
+		<img src="{{ .RelPermalink }}">
+	{{- end -}}
+	{{- with .Process "resize 200x #444 png" -}}
+		<img src="{{ .RelPermalink }}">
+	{{- end -}}
+{{- end -}}
+` }}
+{{ transform.Highlight (strings.TrimSpace $c) "go-html-template" }}
+{{ (resources.FromString now.UnixNano $c | resources.ExecuteAsTemplate now.UnixNano $).Content | safeHTML }}
+
 {{ end }}
