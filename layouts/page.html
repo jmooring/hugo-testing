@@ -1,4 +1,16 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
+
+{{ with .Resources.GetMatch "**" }}
+	{{ with .Process "resize 200x" }}
+		{{ $oldBaseName := path.BaseName .RelPermalink }}
+		{{ $newBaseName := printf "%s-min.%s" $oldBaseName .MediaType.FirstSuffix.Suffix }}
+		{{ $publicationPath := urls.JoinPath $.RelPermalink $newBaseName }}
+		{{ with resources.Copy $publicationPath . }}
+			<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+		{{ end }}
+	{{ end }}
+{{ end }}
+
 {{ end }}
