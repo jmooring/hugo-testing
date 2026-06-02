@@ -5,3 +5,19 @@ draft = false
 details = 'https://discourse.gohugo.io/t/57231'
 description = "Abnormal rendering of TableOfContents list that has happened only 1 time out of 600 posts"
 +++
+
+### HISTFILE
+
+### HISTSIZE / SAVEHIST
+
+### EXTENDED_HISTORY
+
+### INC_APPEND_HISTORY_TIME
+
+### HIST_IGNORE_ALL_DUPS
+
+### HIST_IGNORE_SPACE
+
+### HIST_REDUCE_BLANKS
+
+### Demo Video

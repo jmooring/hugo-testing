@@ -8,8 +8,16 @@
 {{ with or .Params.url .Params.details }}
 	<hr>
 {{ end }}
-{{ .Content }}
-{{ range site.RegularPages }}
-	<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+{{ if .Params.toc | default true }}
+	{{ if ne .TableOfContents "<nav id=\"TableOfContents\"></nav>" }}
+		<div class="post-quick-jump">
+			<strong>Quick Jump:</strong>
+			{{ .TableOfContents }}
+		</div>
+	{{ end }}
 {{ end }}
+
+{{ .Content }}
+
 {{ end }}

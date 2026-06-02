@@ -1,0 +1,37 @@
+.post-quick-jump {
+  font-size: 16px;
+  margin-bottom: 25px;
+  padding: 10px;
+  background-color: #e0f5ff; }
+
+.post-quick-jump strong {
+  margin-right: 8px;
+}
+
+.post-quick-jump a {
+  text-decoration: underline;
+  color: #2774c8;
+  display: inline-block;
+  white-space: nowrap; }
+
+#TableOfContents {
+  display: inline;
+  padding-bottom: 0;
+}
+
+#TableOfContents ul {
+  display: inline;
+  padding-left: 1px;
+  padding-bottom: 0;
+}
+
+#TableOfContents li {
+  display: inline;
+  list-style-type: none;
+}
+
+#TableOfContents li:not(:last-child) a {
+  margin-right: 7px;
+  padding-right: 10px;
+  border-right: 1px solid #85bdfa;
+}
