@@ -1,0 +1,3 @@
+{{ $content := dict "mediaType" "text/markdown" "value" "Content created by content adapter" }}
+{{ .AddPage (dict "path" "created-by-content-adapter" "title" "Created by content adapter" "content" $content) }}
+{{ .EnableAllDimensions }}

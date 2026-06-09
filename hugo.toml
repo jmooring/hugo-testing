@@ -1,3 +1,21 @@
-baseURL = 'https://example.org/'
-locale = 'en-US'
-title = 'Hugo GitHub Issue #15012'
+disableKinds = ['home','rss','section','sitemap','taxonomy','term']
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.en]
+    weight = 1
+  [languages.fr]
+    weight = 2
+[[module.mounts]]
+  source = 'content'
+  target = 'content'
+[[module.mounts]]
+  source = 'internal'
+  target = 'content'
+  [module.mounts.sites.matrix]
+    languages = ['en']
+[[module.mounts]]
+  source = '../../temp/external'
+  target = 'content'
+  [module.mounts.sites.matrix]
+    languages = ['en']
