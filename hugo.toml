@@ -1,3 +1,39 @@
-baseURL = 'https://example.org/'
-locale = 'en-US'
-title = '@@TITLE@@'
+baseURL                        = 'https://example.org/'
+title                          = 'Segmentation'
+defaultContentLanguage         = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+  direction = 'ltr'
+  label     = 'English'
+  locale    = 'en-US'
+  weight    = 1
+
+[languages.nb]
+  locale    = 'nb-NO'
+  direction = 'ltr'
+  label     = 'Bokmål'
+  weight    = 2
+
+[languages.nn]
+  locale    = 'nn-NO'
+  direction = 'ltr'
+  label     = 'Norsk'
+  weight    = 3
+
+[segments]
+  [segments.segment1]
+    [[segments.segment1.excludes]]
+      [segments.segment1.excludes.sites.matrix]
+        languages = ['n*']
+    [[segments.segment1.excludes]]
+      output = 'rss'
+      [segments.segment1.excludes.sites.matrix]
+        languages = ['en']
+    [[segments.segment1.includes]]
+      kind = '{home,term,taxonomy}'
+    [[segments.segment1.includes]]
+      path = '{/books,/books/**}'
+
+[taxonomies]
+  tag = 'tags'
