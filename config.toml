@@ -1,16 +1,16 @@
 baseURL      = 'https://example.org/'
-languageCode = 'en-us'
+locale = 'en-us'
 title        = 'Hugo Forum Topic #37345'
 
-disableKinds = ['RSS', 'sitemap', 'taxonomy', 'term']
+disableKinds = ['page', 'rss', 'section', 'sitemap', 'taxonomy', 'term']
 
 [module.hugoVersion]
-  min = '0.148.0'
+  min = '0.163.0'
 
 # Default mounts
 [[module.mounts]]
-source = 'assets'
-target = 'assets'
+  source = 'assets'
+  target = 'assets'
 
 [[module.mounts]]
   source = 'static'

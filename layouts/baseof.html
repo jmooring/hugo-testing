@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+		<title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ with .Title }}{{ printf "%s | " . }}{{ end }}{{ .Site.Title }}{{ end }}</title>
+
+		{{ with resources.Get "css/assets.css" }}
+			{{ $opts := dict
+				"minify" (cond hugo.IsDevelopment false true)
+				"sourceMap" (cond hugo.IsDevelopment "linked" "none")
+			}}
+			{{ with . | css.Build $opts }}
+				{{ if hugo.IsDevelopment }}
+					<link rel="stylesheet" href="{{ .RelPermalink }}">
+				{{ else }}
+					{{ with . | fingerprint }}
+						<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+					{{ end }}
+				{{ end }}
+			{{ end }}
+		{{ end }}
+
+		{{ with resources.Get "css/static.css" }}
+			{{ $opts := dict
+				"minify" (cond hugo.IsDevelopment false true)
+				"sourceMap" (cond hugo.IsDevelopment "linked" "none")
+			}}
+			{{ with . | css.Build $opts }}
+				{{ if hugo.IsDevelopment }}
+					<link rel="stylesheet" href="{{ .RelPermalink }}">
+				{{ else }}
+					{{ with . | fingerprint }}
+						<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+					{{ end }}
+				{{ end }}
+			{{ end }}
+		{{ end }}
+
+	</head>
+	<body>
+		{{ block "main" . }}
+
+		{{ end }}
+	</body>
+</html>
