@@ -1,3 +1,2 @@
-baseURL = 'https://example.org/'
-locale = 'en-US'
-title = 'Hugo GitHub Issue #15046'
+disableKinds = ['home','rss','sitemap','taxonomy','term']
+uglyURLs = false
