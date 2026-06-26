@@ -1,3 +1,10 @@
-baseURL = 'https://example.org/'
-locale = 'en-US'
-title = '@@TITLE@@'
+disableKinds = ['home','rss','section','sitemap','taxonomy','term']
+uglyURLs = false
+
+[mediaTypes]
+  [mediaTypes.'text/html']
+    suffixes = ['html', 'htm']
+
+[outputFormats]
+  [outputFormats.html]
+    mediaType = 'text/html'
