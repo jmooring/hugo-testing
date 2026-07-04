@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
-locale = 'en-US'
-title = 'Hugo GitHub Issue #15082'
+disableKinds = ['page', 'rss', 'section', 'sitemap', 'taxonomy', 'term']
+
+[security.exec]
+  allow = ['^(dart-)?sass(-embedded)?$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$', '^rst2html$','^asciidoctor$']
+
+[markup.rst]
+  syntaxHighlight = 'short'
