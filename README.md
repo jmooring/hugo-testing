@@ -1,15 +1,15 @@
-# @@TITLE@@
+# Hugo GitHub Issue #15082
 
-Details: <@@URL@@>
+Details: <https://github.com/gohugoio/hugo/issues/15082>
 
-Description: @@DESCRIPTION@@
+Description: Add markup.rst.syntaxHighlight option
 
 ## Instructions
 
 Clone this branch of the repository and build the site.
 
 ```text
-git clone --single-branch -b @@BRANCH@@ @@REPOSITORY@@ @@BRANCH@@
-cd @@BRANCH@@
+git clone --single-branch -b hugo-github-issue-15082 https://github.com/jmooring/hugo-testing hugo-github-issue-15082
+cd hugo-github-issue-15082
 hugo server
 ```
