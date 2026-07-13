@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-US'
+locale = 'en-US'
 title = 'Hugo Forum Topic #48874'
 
 [taxonomies]
@@ -19,3 +19,6 @@ weight = 20
 name = 'Authors'
 pageRef = '/authors'
 weight = 30
+
+[module.hugoVersion]
+min = '0.164.0'

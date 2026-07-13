@@ -18,6 +18,6 @@ matter array.
 */}}
 {{- $pageAuthor := "" }}
 {{- with .Params.authors }}
-  {{- $pageAuthor = ((index site.Taxonomies.authors).Get (index . 0)).Page }}
+	{{- $pageAuthor = ((index site.Taxonomies.authors).Get (index . 0)).Page }}
 {{- end }}
 {{- return $pageAuthor }}

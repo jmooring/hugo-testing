@@ -1,19 +1,16 @@
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-}
+/* Base */
+/* ------------------------------------------------------------------------- */
 
 html {
   box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
   scroll-behavior: smooth;
 }
 
 body {
-  font-family: sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-  margin: 0 1rem 3rem;
+  margin: 1rem;
   max-width: 768px;
 }
 
@@ -22,22 +19,43 @@ a {
   text-decoration: none;
 }
 
-nav {
-  margin: 1em 0;
+img {
+  height: auto;
+  max-width: 100%
 }
 
-nav.menu a,
-nav.language-switcher a {
-  margin-right: 0.2em;
+/* Navigation */
+/* ------------------------------------------------------------------------- */
+
+.nav-inline ol,
+.nav-inline ul {
+  margin: 1rem 0;
+  padding: 0;
 }
 
-.active {
+.nav-inline li {
+  display: inline;
+  padding-right: 1rem;
+}
+
+.nav-inline li:last-of-type {
+  padding-right: 0;
+}
+
+.nav-inline li.active a {
   background-color: yellow;
 }
 
-.ancestor {
+.nav-inline li.ancestor a {
   background-color: cyan;
 }
+
+.nav-inline.breadcrumbs li:not(:last-child)::after {
+  content: "\00bb";
+}
+
+/* Code blocks */
+/* ------------------------------------------------------------------------- */
 
 /* Applies when there are no line numbers, or when line numbers are inline. */
 .highlight > pre {
