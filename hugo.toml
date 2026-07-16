@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
-locale = 'en-US'
-title = 'Hugo GitHub Issue #15121'
+disableKinds = ['home','rss','section','sitemap','taxonomy','term']
+
+[markup.asciidocExt]
+  backend    = 'html5s'
+  extensions = ['asciidoctor-html5s']
+
+[security.exec]
+  allow = ['^asciidoctor$']
