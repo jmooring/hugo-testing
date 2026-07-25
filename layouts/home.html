@@ -9,7 +9,19 @@
 	<hr>
 {{ end }}
 {{ .Content }}
-{{ range site.RegularPages }}
-	<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+{{ $dims := slice "1200x" "800x" "500x" }}
+
+{{ with $r := resources.Get "images/mystery-usb-cable.jpg" }}
+	{{ range $dims }}
+		{{ with $r.Process (printf "resize %s avif" .) }}
+			<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+		{{ end }}
+	{{ end }}
+
+	{{ with $r.Process "avif" }}
+		<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+	{{ end }}
 {{ end }}
+
 {{ end }}
