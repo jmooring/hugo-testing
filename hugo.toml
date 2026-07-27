@@ -1,3 +1,40 @@
 baseURL = 'https://example.org/'
-locale = 'en-US'
-title = 'Hugo Forum Topic #57396'
+locale  = 'en-US'
+title   = 'Hugo Forum Topic #57396'
+
+disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
+
+defaultContentLanguage         = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+  direction = 'ltr'
+  label     = 'English'
+  locale    = 'en-US'
+  weight    = 1
+
+  [[languages.en.menus.main]]
+    name    = 'Home'
+    pageRef = '/'
+    weight  = 10
+
+  [[languages.en.menus.main]]
+    name    = 'Posts'
+    pageRef = '/posts'
+    weight  = 20
+
+[languages.de]
+  locale    = 'de-DE'
+  direction = 'ltr'
+  label     = 'Deutsch'
+  weight    = 2
+
+  [[languages.de.menus.main]]
+    name    = 'Home'
+    pageRef = '/'
+    weight  = 10
+
+  [[languages.de.menus.main]]
+    name    = 'Posts'
+    pageRef = '/posts'
+    weight  = 20
