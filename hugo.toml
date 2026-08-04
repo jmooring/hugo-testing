@@ -1,3 +1,9 @@
 baseURL = 'https://example.org/'
-locale = 'en-US'
-title = 'Hugo GitHub Issue #15149'
+locale  = 'en-US'
+title   = 'Hugo GitHub Issue #15149'
+
+disableKinds = ['pge', 'rss', 'section', 'sitemap', 'taxonomy', 'term']
+
+[markup.highlight]
+  noClasses = false
+  style     = 'github'

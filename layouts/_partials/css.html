@@ -1,0 +1,29 @@
+{{ $opts := dict
+  "mode" "light"
+  "targetPath" "css/highlight-light.css"
+}}
+{{ $highlightLight := css.ChromaStyles $opts }}
+
+{{ $opts := dict
+  "mode" "dark"
+  "modeSelector" true
+  "targetPath" "css/highlight-dark.css"
+}}
+{{ $highlightDark := css.ChromaStyles $opts }}
+
+{{ with resources.Get "css/main.css" }}
+  {{ $opts := dict
+	"importContext" (slice $highlightLight $highlightDark)
+	"minify" (cond hugo.IsDevelopment false true)
+	"sourceMap" (cond hugo.IsDevelopment "linked" "none")
+  }}
+  {{ with . | css.Build $opts }}
+	{{ if hugo.IsDevelopment }}
+	  <link rel="stylesheet" href="{{ .RelPermalink }}">
+	{{ else }}
+	  {{ with . | fingerprint }}
+		<link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+	  {{ end }}
+	{{ end }}
+  {{ end }}
+{{ end }}

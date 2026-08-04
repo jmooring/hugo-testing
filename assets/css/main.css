@@ -1,0 +1,48 @@
+@import "highlight-light.css";
+@import "highlight-dark.css";
+
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  line-height: 1.5;
+  scroll-behavior: smooth;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  background-color: #fff;
+  color: #000;
+  color-scheme: light;
+}
+
+html.dark {
+  background-color: #000;
+  color: #fff;
+  color-scheme: dark;
+}
+
+body {
+  margin: 1rem auto;
+  max-width: 80ch;
+}
+
+a {
+  text-decoration: none;
+}
+
+a {
+  color: #00e;
+}
+
+html.dark a {
+  color: #6af;
+}
+
+#theme-toggle {
+  margin-bottom: 1rem;
+}
