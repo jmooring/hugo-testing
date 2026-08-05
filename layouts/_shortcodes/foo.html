@@ -1,0 +1,5 @@
+{{ $id := printf "%s-foo-%d" .Page.File.ContentBaseName .Ordinal }}
+{{ .Page.Store.SetInMap "foos" $id (.Get 0) }}
+<p>This is layouts/_shortcodes/foo.html with Ordinal = {{ .Ordinal }}.</p>
+<p>The positional parameter passed to this shortcode is {{ .Get 0 }}.</p>
+<hr>

@@ -1,4 +1,11 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
+
+<p>This is the jsonified value of <code>.Store.Get "foos"</code>.</p>
+
+<pre>
+{{ jsonify (dict "indent" "  ") (.Store.Get "foos") }}
+</pre>
+
 {{ end }}
