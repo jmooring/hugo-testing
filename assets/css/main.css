@@ -1,5 +1,5 @@
-@import "highlight-light.css";
-@import "highlight-dark.css";
+@import "./highlight-light.css";
+@import "./highlight-dark.css";
 
 html {
   box-sizing: border-box;

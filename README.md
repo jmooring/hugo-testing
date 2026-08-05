@@ -13,3 +13,11 @@ git clone --single-branch -b hugo-github-issue-15149 https://github.com/jmooring
 cd hugo-github-issue-15149
 hugo server
 ```
+
+Files of interest:
+
+- `layouts/baseof.html` (lines 7-8, 13)
+- `layouts/_partials/css.html`
+- `layouts/_partials/js.html`
+- `assets/css/main.css`
+- `assets/js/main.js`
