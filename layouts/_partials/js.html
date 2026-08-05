@@ -1,5 +1,7 @@
 {{ with resources.Get "js/main.js" }}
+  {{ $switcher := site.Params.theme.switcher | default "light-dark-system" }}
   {{ $opts := dict
+    "params" (dict "switcher" $switcher)
     "minify" (cond hugo.IsDevelopment false true)
     "sourceMap" (cond hugo.IsDevelopment "linked" "none")
   }}

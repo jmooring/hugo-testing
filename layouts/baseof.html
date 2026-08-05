@@ -9,8 +9,19 @@
 	</head>
 	<body>
 		<header>
-			<h1><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
-			<button id="theme-toggle" aria-label="Toggle mode">Toggle mode</button>
+			<div class="site-title"><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></div>
+			{{ $switcher := site.Params.theme.switcher | default "light-dark-system" }}
+			{{ if ne $switcher "system" }}
+			<fieldset id="theme-switcher">
+				<legend>Color scheme</legend>
+				<label><input type="radio" name="theme" value="light"> Light</label>
+				<label><input type="radio" name="theme" value="dark"> Dark</label>
+				{{ if eq $switcher "light-dark-system" }}
+				<label><input type="radio" name="theme" value="system"> System</label>
+				{{ end }}
+			</fieldset>
+			{{ end }}
+			<p>Change <code>params.theme.switcher</code> in the project configuration to modify the theme switcher UI and behavior.</p>
 			<hr>
 		</header>
 		<main>

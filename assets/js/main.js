@@ -1,14 +1,9 @@
-{
-  const root = document.documentElement;
-  const btn = document.getElementById('theme-toggle');
-  const stored = localStorage.getItem('theme');
+import { switcher } from '@params';
 
-  if (stored === 'dark') {
-    root.classList.add('dark');
-  }
-
-  btn.addEventListener('click', () => {
-    root.classList.toggle('dark');
-    localStorage.setItem('theme', root.classList.contains('dark') ? 'dark' : 'light');
-  });
+if (switcher === 'light-dark') {
+  import('./theme/light-dark.js');
+} else if (switcher === 'system') {
+  import('./theme/system.js');
+} else {
+  import('./theme/light-dark-system.js');
 }

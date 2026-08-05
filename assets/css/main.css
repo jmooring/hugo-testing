@@ -2,22 +2,36 @@
 @import "./highlight-dark.css";
 
 html {
+  background-color: #fff;
   box-sizing: border-box;
-  font-family: sans-serif;
+  color: #000;
+  color-scheme: light;
+  font-family: system-ui, sans-serif;
   line-height: 1.5;
-  scroll-behavior: smooth;
 }
 
-*,
-*::before,
-*::after {
+*, *::before, *::after {
   box-sizing: inherit;
 }
 
-html {
-  background-color: #fff;
-  color: #000;
-  color-scheme: light;
+body {
+  max-width: 75ch;
+  margin: 1rem auto;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.2;
+}
+
+a {
+  color: #00e;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 html.dark {
@@ -26,23 +40,19 @@ html.dark {
   color-scheme: dark;
 }
 
-body {
-  margin: 1rem auto;
-  max-width: 80ch;
-}
-
-a {
-  text-decoration: none;
-}
-
-a {
-  color: #00e;
-}
-
 html.dark a {
   color: #6af;
 }
 
-#theme-toggle {
-  margin-bottom: 1rem;
+.site-title {
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+}
+
+#theme-switcher {
+  border: none;
+  margin: 0 0 1rem;
+  padding: 0;
 }

@@ -2,8 +2,11 @@ baseURL = 'https://example.org/'
 locale  = 'en-US'
 title   = 'Hugo GitHub Issue #15149'
 
-disableKinds = ['pge', 'rss', 'section', 'sitemap', 'taxonomy', 'term']
+disableKinds = ['page', 'rss', 'section', 'sitemap', 'taxonomy', 'term']
 
 [markup.highlight]
   noClasses = false
   style     = 'github'
+
+[params.theme]
+  switcher = 'light-dark-system' # one of light-dark-system, light-dark, or system
