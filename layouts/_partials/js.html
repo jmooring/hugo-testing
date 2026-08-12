@@ -1,17 +1,15 @@
 {{ with resources.Get "js/main.js" }}
-  {{ $switcher := site.Params.theme.switcher | default "light-dark-system" }}
-  {{ $opts := dict
-    "params" (dict "switcher" $switcher)
-    "minify" (cond hugo.IsDevelopment false true)
-    "sourceMap" (cond hugo.IsDevelopment "linked" "none")
-  }}
-  {{ with . | js.Build $opts }}
-    {{ if hugo.IsDevelopment }}
+	{{ $opts := dict
+		"minify" (cond hugo.IsDevelopment false true)
+		"sourceMap" (cond hugo.IsDevelopment "linked" "none")
+	}}
+	{{ with . | js.Build $opts }}
+		{{ if hugo.IsDevelopment }}
       <script defer src="{{ .RelPermalink }}"></script>
-    {{ else }}
-      {{ with . | fingerprint }}
+		{{ else }}
+			{{ with . | fingerprint }}
         <script defer src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
-      {{ end }}
-    {{ end }}
-  {{ end }}
+			{{ end }}
+		{{ end }}
+	{{ end }}
 {{ end }}

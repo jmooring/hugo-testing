@@ -9,16 +9,9 @@ description = "Add css.ChromaStyles"
 This is an example of Go code:
 
 ```go
-package main
-
-import "fmt"
-
-func main() {
-  numbers := []int{1, 2, 3, 4, 5}
-  sum := 0
-  for _, num := range numbers {
-    sum += num
+func printGreeting(showGreeting bool) {
+  if showGreeting {
+    fmt.Println("Hello, World!")
   }
-  fmt.Printf("Sum of %v is: %d\n", numbers, sum)
 }
 ```

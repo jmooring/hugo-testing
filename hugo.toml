@@ -4,9 +4,7 @@ title   = 'Hugo GitHub Issue #15149'
 
 disableKinds = ['page', 'rss', 'section', 'sitemap', 'taxonomy', 'term']
 
-[markup.highlight]
-  noClasses = false
-  style     = 'github'
-
-[params.theme]
-  switcher = 'light-dark-system' # one of light-dark-system, light-dark, or system
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = 'github'
