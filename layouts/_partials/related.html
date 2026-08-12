@@ -1,0 +1,8 @@
+{{ with site.RegularPages.Related . }}
+  <p>Related content:</p>
+  <ul>
+	{{ range . }}
+	  <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+	{{ end }}
+  </ul>
+{{ end }}

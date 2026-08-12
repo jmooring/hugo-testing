@@ -1,3 +1,14 @@
 baseURL = 'https://example.org/'
 locale = 'en-US'
 title = 'Hugo Forum Topic #57467'
+
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+  [[related.indices]]
+    type = 'fragments'
+    weight = 80
+    tokenize = true
