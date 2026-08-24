@@ -44,6 +44,13 @@ defaultContentVersionInSubdir = true
   min = '0.155.0'
 
 [[module.mounts]]
+  source = 'content'
+  target = 'content'
+  [module.mounts.sites]
+    [module.mounts.sites.matrix]
+      versions = '**'
+
+[[module.mounts]]
   source = 'content/v0.4.0'
   target = 'content'
   [module.mounts.sites]
