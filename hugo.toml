@@ -26,6 +26,11 @@ defaultContentVersionInSubdir = true
   pageRef = '/docs/functions'
   weight  = 30
 
+[[menus.main]]
+  name    = 'Posts'
+  pageRef = '/posts'
+  weight  = 40
+
   # -----------------------------------------------------------------------------
   # Content dimensions
   # -----------------------------------------------------------------------------
