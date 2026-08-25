@@ -11,5 +11,13 @@
 {{ .Content }}
 {{ range site.RegularPages }}
 	<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+	{{ with site.RegularPages.Related . }}
+		<p>Related content:</p>
+		<ul>
+			{{ range . }}
+				<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+			{{ end }}
+		</ul>
+	{{ end }}
 {{ end }}
 {{ end }}
