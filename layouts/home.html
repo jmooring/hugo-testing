@@ -1,15 +1,8 @@
-{{ define "main" }}
-{{ with .Params.details }}
-	<p>Details: <a href="{{ . }}">{{ . }}</a></p>
-{{ end }}
-{{ with .Params.description }}
-	<p>Description: {{ . }}</p>
-{{ end }}
-{{ with or .Params.url .Params.details }}
-	<hr>
-{{ end }}
-{{ .Content }}
-{{ range site.RegularPages }}
-	<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-{{ end }}
+{{ $globs := slice
+	"ab/*" "aB/*" "AB/*"
+	"cd/*" "cD/*" "CD/*"
+	"ef/*" "eF/*" "EF/*"
+}}
+{{ range $glob := $globs }}
+Glob: {{ . }}|{{ with resources.GetMatch . }}Permalink: {{ .RelPermalink }}|Content: {{ .Content }}{{ end }}
 {{ end }}
