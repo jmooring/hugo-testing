@@ -1,12 +1,12 @@
 {{ define "main" }}
-  {{ with .Params.details }}
-    <p>Details: <a href="{{ . }}">{{ . }}</a></p>
-  {{ end }}
-  {{ with .Params.description }}
-    <p>Description: {{ . }}</p>
-  {{ end }}
-  {{ with or .Params.url .Params.details }}
-    <hr>
-  {{ end }}
-  {{ .Content }}
+{{ with .Params.details }}
+	<p>Details: <a href="{{ . }}">{{ . }}</a></p>
+{{ end }}
+{{ with .Params.description }}
+	<p>Description: {{ . }}</p>
+{{ end }}
+{{ with or .Params.url .Params.details }}
+	<hr>
+{{ end }}
+{{ .Content }}
 {{ end }}

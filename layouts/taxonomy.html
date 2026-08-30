@@ -1,13 +1,12 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
 
-  {{ range (.Paginate .Pages).Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Render "summary" }}
-  {{ end }}
+{{ range (.Paginate .Pages).Pages }}
+	<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+{{ end }}
 
-  <nav class="pagination">
-    {{ partial "pagination.html" . }}
-  </nav>
+<nav class="pagination">
+	{{ partial "pagination.html" . }}
+</nav>
 {{ end }}

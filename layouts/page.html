@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ partial "time.html" .PublishDate }}
-  {{ .Content }}
+<h1>{{ .Title }}</h1>
+{{ partial "time.html" .PublishDate }}
+{{ .Content }}
 {{ end }}
