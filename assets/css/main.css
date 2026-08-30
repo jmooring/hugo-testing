@@ -2,26 +2,42 @@
 /* ------------------------------------------------------------------------- */
 
 html {
+  background-color: #fff;
   box-sizing: border-box;
-  font-family: sans-serif;
-  font-size: 16px;
+  color: #000;
+  font-family: system-ui, sans-serif;
   line-height: 1.5;
-  scroll-behavior: smooth;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
 body {
+  max-width: 75ch;
   margin: 1rem;
-  max-width: 768px;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.2;
 }
 
 a {
-  color: blue;
+  color: #00e;
   text-decoration: none;
 }
 
 img {
-  height: auto;
+  display: block;
   max-width: 100%;
+  height: auto;
+}
+
+.site-title {
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
 }
 
 /* Navigation */
