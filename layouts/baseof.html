@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ site.Language.Locale }}" dir="{{ or site.Language.Direction `ltr` }}">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
-  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
-  {{ partialCached "css.html" . }}
-  {{ if hugo.IsDevelopment }}
-    {{ partial "debug.html" . }}
-  {{ end }}
-</head>
-<body>
-  <header>
-    <h1><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
-    {{ partial "language-selector.html" . }}
-    {{ partial "menu.html" . }}
-    <hr>
-  </header>
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-</body>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+		<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+		{{ partialCached "css.html" . }}
+		{{ if hugo.IsDevelopment }}
+			{{ partial "debug.html" . }}
+		{{ end }}
+	</head>
+	<body>
+		<header>
+			<h1><a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a></h1>
+			{{ partial "language-selector.html" . }}
+			{{ partial "menu.html" . }}
+			<hr>
+		</header>
+		<main>
+			{{ block "main" . }}{{ end }}
+		</main>
+	</body>
 </html>
