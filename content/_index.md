@@ -5,3 +5,5 @@ draft = false
 details = 'https://github.com/gohugoio/hugo/issues/15267'
 description = "Bump fileCacheEntryVersion in transform.ToMath"
 +++
+
+$$C_p[\ce{H2O(l)}] = \pu{75.3 J // mol K}$$
