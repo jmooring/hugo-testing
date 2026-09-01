@@ -2,53 +2,71 @@
 /* ------------------------------------------------------------------------- */
 
 html {
+  background-color: #fff;
   box-sizing: border-box;
-  font-family: sans-serif;
-  font-size: 16px;
+  color: #000;
+  font-family: system-ui, sans-serif;
   line-height: 1.5;
-  scroll-behavior: smooth;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
 body {
-  margin: 0 1rem;
-  max-width: 768px;
+  max-width: 75ch;
+  margin: 1rem;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.2;
 }
 
 a {
-  color: blue;
+  color: #00e;
   text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.site-title {
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
 }
 
 /* Navigation */
 /* ------------------------------------------------------------------------- */
 
-nav {
-  margin-bottom: 1rem;
-}
-
-nav ul {
-  font-size: 0;
+.nav-inline ol,
+.nav-inline ul {
+  margin: 1rem 0;
   padding: 0;
 }
 
-nav li {
+.nav-inline li {
   display: inline;
+  padding-right: 1rem;
 }
 
-nav a {
-  font-size: 1rem;
-  padding: 0.25em 0.5em;
+.nav-inline li:last-of-type {
+  padding-right: 0;
 }
 
-nav li.active a {
+.nav-inline li.active a {
   background-color: yellow;
 }
 
-nav li.ancestor a {
+.nav-inline li.ancestor a {
   background-color: cyan;
 }
 
-nav.breadcrumbs li:not(:last-child)::after {
+.nav-inline.breadcrumbs li:not(:last-child)::after {
   content: "\00bb";
 }
 
