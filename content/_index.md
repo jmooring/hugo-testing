@@ -8,12 +8,16 @@ description = "Markdown-enabled shortcodes do not de-indent their inner Markdown
 
 1. First item
 
-    {{% foo %}}
+    {{< tabs >}}
+
+    {{% tab %}}
 
     ~~~bash
     echo hello
     ~~~
 
-    {{% /foo %}}
+    {{% /tab %}}
+    
+    {{< /tabs >}}
 
 2. Second item
