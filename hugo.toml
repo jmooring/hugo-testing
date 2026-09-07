@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
-locale = 'en-US'
-title = 'Hugo Forum Topic #42304'
+baseURL      = 'https://example.org/'
+locale       = 'en-US'
+title        = 'Hugo Forum Topic #42304'
+disableKinds = ['page', 'rss', 'section', 'sitemap', 'taxonomy', 'term']
+
+[markup.highlight]
+  noClasses = false
+  style     = 'monokai'

@@ -13,3 +13,9 @@ git clone --single-branch -b hugo-forum-topic-42304 https://github.com/jmooring/
 cd hugo-forum-topic-42304
 hugo server
 ```
+
+To fix the problems, uncomment this line in `assets/css/main.css`:
+
+```css
+@import "./code-blocks.css";
+```

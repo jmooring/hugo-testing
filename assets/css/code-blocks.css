@@ -1,0 +1,38 @@
+/* Code blocks */
+/* ------------------------------------------------------------------------- */
+
+/* Applies when there are no line numbers, or when line numbers are inline. */
+.highlight > pre {
+  padding: 1em 0 1em 1em;
+}
+
+/* Applies when line numbers are in a table cell. */
+.highlight div {
+  padding: 0 0 0 1em;
+}
+
+/* Applies to all. */
+.highlight div,
+.highlight > pre {
+  overflow-x: auto;
+  /* add optional border-radius and box-shadow here */
+}
+
+/* https://github.com/alecthomas/chroma/issues/722
+   First cell (line numbers): fixes the row-height mismatch by giving each
+   row its own flex box, matching the flex box chroma already puts on each
+   .line in the second cell. Only applies with lineNumbersInTable = true and
+   noClasses = false; chroma doesn't render these classes otherwise. */
+.highlight .chroma .lntable .lntd:first-child .lnt,
+.highlight .chroma .lntable .lntd:first-child .hl {
+  display: flex;
+}
+
+/* https://github.com/alecthomas/chroma/issues/722
+   Second cell (code): without this, the cell won't consume the remaining
+   width, so a long line overflows the page instead of scrolling within the
+   code block. Only applies with lineNumbersInTable = true and noClasses =
+   false; chroma doesn't render these classes otherwise. */
+.highlight .chroma .lntable .lntd + .lntd {
+  width: 100%;
+}

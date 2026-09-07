@@ -1,0 +1,44 @@
+@import "./highlight.css";
+/* @import "./code-blocks.css"; */
+
+/* Base */
+/* ------------------------------------------------------------------------- */
+
+html {
+  background-color: #fff;
+  box-sizing: border-box;
+  color: #000;
+  font-family: system-ui, sans-serif;
+  line-height: 2;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  max-width: 75ch;
+  margin: 1rem;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.2;
+}
+
+a {
+  color: #00e;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.site-title {
+  font-size: 2em;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+}
