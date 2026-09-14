@@ -1,0 +1,11 @@
+disableKinds = ['page', 'rss', 'section', 'sitemap', 'taxonomy', 'term']
+
+defaultContentLanguage = 'de'
+defaultContentLanguageInSubdir = true
+
+# Shared config: both languages enabled.
+[languages.de]
+  weight = 1
+
+[languages.en]
+  weight = 2

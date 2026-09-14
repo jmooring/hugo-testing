@@ -1,0 +1,9 @@
+title = 'Hugo GitHub Issue #15346'
+
+# Site-specific config: attempt to restrict to German only, replacing
+# (not merging with) the [languages] block from a.toml.
+[languages]
+_merge = 'none'
+
+[languages.de]
+  weight = 1
