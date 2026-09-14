@@ -1,0 +1,14 @@
+# Rewrite (not redirect) any request under /foo/** to /foo/, simulating a
+# single-page application's "catch-all" route. This is the dev-server
+# equivalent of the SPA rewrite rule requested in the issue.
+[[redirects]]
+  from = '/foo/**'
+  to = '/foo/'
+  status = 200
+
+# Preserve the default server 404 behavior; required once other redirects
+# are defined. See https://gohugo.io/configuration/server/#404-errors
+[[redirects]]
+  from = '/**'
+  to = '/404.html'
+  status = 404
