@@ -1,13 +1,39 @@
-{{- $r := resources.Get "a.csv" }}
-{{- $opts := dict "targetType" "map" "format" "csv" }}
+{{- /* local resource */}}
+{{- $r := resources.Get "cities-utf-8-with-bom.csv" }}
+{{- $opts := dict "targetType" "map"}}
 {{- $data := transform.Unmarshal $opts $r }}
 {{- range $data }}
-column_a: {{ .column_a }}|column_b: {{ .column_b }}|
+city: {{ .city }}|country: {{ .country }}|
 {{- end }}
 
-{{- $r := resources.GetRemote "https://www.veriphor.com/shared/data/utf-8-with-bom.csv" }}
-{{- $opts := dict "targetType" "map" "format" "csv" }}
+{{- /* local resource as string */}}
+{{- $r := resources.Get "fruits-utf-8-with-bom.csv" }}
+{{- $opts := dict "targetType" "map"}}
+{{- $data := transform.Unmarshal $opts $r.Content }}
+{{- range $data }}
+fruit: {{ .fruit }}|color: {{ .color }}|
+{{- end }}
+
+{{- /* remote resource */}}
+{{- $r := resources.GetRemote "https://www.veriphor.com/shared/data/employees-utf-8-with-bom.csv" }}
+{{- $opts := dict "targetType" "map" }}
 {{- $data := transform.Unmarshal $opts $r }}
 {{- range $data }}
-field_a: {{ .field_a }}|field_b: {{ .field_b }}|
+id: {{ .id }}|role: {{ .role }}|
+{{- end }}
+
+{{- /* remote resource as string */}}
+{{- $r := resources.GetRemote "https://www.veriphor.com/shared/data/vehicles-utf-8-with-bom.csv" }}
+{{- $opts := dict "targetType" "map" }}
+{{- $data := transform.Unmarshal $opts $r.Content }}
+{{- range $data }}
+vehicle: {{ .vehicle }}|type: {{ .type }}|
+{{- end }}
+
+{{- /* local file vs os.ReadFile */}}
+{{- $s := os.ReadFile "products-utf-8-with-bom.csv" }}
+{{- $opts := dict "targetType" "map"}}
+{{- $data := transform.Unmarshal $opts $s }}
+{{- range $data }}
+name: {{ .name }}|price: {{ .price }}|
 {{- end }}

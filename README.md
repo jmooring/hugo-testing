@@ -17,6 +17,9 @@ hugo --ignoreCache && cat public/index.html
 Expected:
 
 ```text
-column_a: foo|column_b: bar|
-field_a: baz|field_b: qux|
+city: tokyo|country: japan|
+fruit: apple|color: red|
+id: 1234|role: developer|
+vehicle: car|type: sedan|
+name: laptop|price: 999.99|
 ```
