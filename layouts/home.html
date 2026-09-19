@@ -1,6 +1,13 @@
-{{ $r := resources.Get "a.csv" }}
-{{ $opts := dict "targetType" "map" "format" "csv" }}
-{{ $data := transform.Unmarshal $opts $r }}
-{{ range $data }}
+{{- $r := resources.Get "a.csv" }}
+{{- $opts := dict "targetType" "map" "format" "csv" }}
+{{- $data := transform.Unmarshal $opts $r }}
+{{- range $data }}
 column_a: {{ .column_a }}|column_b: {{ .column_b }}|
-{{ end }}
+{{- end }}
+
+{{- $r := resources.GetRemote "https://www.veriphor.com/shared/data/utf-8-with-bom.csv" }}
+{{- $opts := dict "targetType" "map" "format" "csv" }}
+{{- $data := transform.Unmarshal $opts $r }}
+{{- range $data }}
+field_a: {{ .field_a }}|field_b: {{ .field_b }}|
+{{- end }}
