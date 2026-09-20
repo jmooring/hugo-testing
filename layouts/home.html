@@ -30,7 +30,7 @@ id: {{ .id }}|role: {{ .role }}|
 vehicle: {{ .vehicle }}|type: {{ .type }}|
 {{- end }}
 
-{{- /* local file vs os.ReadFile */}}
+{{- /* local file via os.ReadFile */}}
 {{- $s := os.ReadFile "products-utf-8-with-bom.csv" }}
 {{- $opts := dict "targetType" "map"}}
 {{- $data := transform.Unmarshal $opts $s }}

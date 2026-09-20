@@ -11,7 +11,7 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-github-issue-15335 https://github.com/jmooring/hugo-testing hugo-github-issue-15335
 cd hugo-github-issue-15335
-hugo --ignoreCache && cat public/index.html
+hugo --ignoreCache --config hugo-utf-8-with-bom.toml && cat public/index.html
 ```
 
 Expected:
