@@ -37,3 +37,8 @@ vehicle: {{ .vehicle }}|type: {{ .type }}|
 {{- range $data }}
 name: {{ .name }}|price: {{ .price }}|
 {{- end }}
+
+{{- /* local file via hugo.Data */}}
+{{- range index hugo.Data "treats-utf-8-with-bom" }}
+type: {{ .type }}|calories: {{ .calories }}|
+{{- end }}
