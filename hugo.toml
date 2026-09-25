@@ -1,3 +1,40 @@
 baseURL = 'https://example.org/'
-locale = 'en-US'
-title = 'Hugo GitHub Issue #15383'
+locale  = 'en-US'
+title   = 'Hugo GitHub Issue #15383'
+
+disableKinds = ['rss','sitemap','taxonomy','term']
+
+defaultContentLanguage         = 'es'
+defaultContentLanguageInSubdir = true
+
+[languages.es]
+  locale    = 'es-ES'
+  direction = 'ltr'
+  label     = 'Español'
+  weight    = 1
+
+  [[languages.es.menu.main]]
+    name   = "Inicio"
+    pageRef    = "/"
+    weight = 10
+
+  [[languages.es.menu.main]]
+    name   = "Productos"
+    pageRef    = "/products/"
+    weight = 20
+
+[languages.en]
+  direction = 'ltr'
+  label     = 'English'
+  locale    = 'en-US'
+  weight    = 2
+
+  [[languages.en.menu.main]]
+    name   = "Home"
+    pageRef    = "/"
+    weight = 10
+
+  [[languages.en.menu.main]]
+    name   = "Products"
+    pageRef    = "/products/"
+    weight = 20
