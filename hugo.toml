@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
-locale = 'en-US'
-title = 'Hugo Forum Topic #57589'
+disableKinds = ['page', 'rss', 'section', 'sitemap', 'taxonomy', 'term']
+
+[markup.goldmark.parser.attribute]
+  block = true
+  title = true
+
+[outputs]
+  home = ['html', 'json']
