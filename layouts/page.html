@@ -1,4 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
+
+{{ warnf "Page: %s RelPermalink: %s Genre: %v" .Path .RelPermalink .Params.genre }}
+
 {{ end }}

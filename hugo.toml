@@ -1,3 +1,23 @@
 baseURL = 'https://example.org/'
-locale = 'en-US'
-title = 'Hugo GitHub Issue #15410'
+locale  = 'en-US'
+title   = 'Hugo GitHub Issue #15410'
+
+disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
+
+[build.cleanDestinationDir]
+  enable = true
+
+[[cascade]]
+  [cascade.params]
+    genre = 'Mystery'
+  [cascade.target]
+    path = '/books/**'
+    [cascade.target.params]
+      author = 'Agatha Christie'
+
+[[permalinks]]
+  pattern = '/foo/:slug/'
+  [permalinks.target]
+    path = '/books/**'
+    [permalinks.target.params]
+      author = 'Agatha Christie'
