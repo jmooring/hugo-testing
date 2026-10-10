@@ -1,0 +1,3 @@
+{{ range .Pages }}
+<title>{{ .Title }}</title><content:encoded>{{ .Content | transform.XMLEscape | safeHTML }}</content:encoded>
+{{ end }}
