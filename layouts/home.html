@@ -9,7 +9,11 @@
 	<hr>
 {{ end }}
 {{ .Content }}
-{{ range site.RegularPages }}
-	<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+{{ if site.Params.showTemplateInfo }}
+	{{ warnf "Show template info" }}
+{{ else }}
+	{{ warnf "Do not show template info" }}
 {{ end }}
+
 {{ end }}

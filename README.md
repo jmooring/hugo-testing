@@ -11,5 +11,23 @@ Clone this branch of the repository and build the site.
 ```text
 git clone --single-branch -b hugo-github-issue-15581 https://github.com/jmooring/hugo-testing hugo-github-issue-15581
 cd hugo-github-issue-15581
-hugo server
+hugo
+```
+
+Expected console output:
+
+```text
+Do not show template info
+```
+
+Then run:
+
+```text
+hugu -e debug
+```
+
+Expected console output:
+
+```text
+Show template info
 ```
