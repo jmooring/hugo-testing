@@ -1,3 +1,14 @@
-baseURL = 'https://example.org/'
-locale = 'en-US'
-title = 'Hugo GitHub Issue #15594'
+baseURL      = 'https://example.org/'
+locale       = 'en-US'
+title        = 'Hugo GitHub Issue #15594'
+disableKinds = ['page', 'rss', 'section', 'sitemap', 'taxonomy', 'term']
+
+[[module.mounts]]
+  source = 'static'
+  target = 'static'
+[[module.mounts]]
+  source = 'LICENSES'
+  target = 'static/LICENSES'
+[[module.mounts]]
+  source = 'static/llms.txt'
+  target = 'static/llms-full.txt'
