@@ -2,7 +2,7 @@
 
 Details: <https://discourse.gohugo.io/t/56516>
 
-Description: Is there and example on how to use the new multidimensional content model?
+Description: Is there an example of how to use the new multidimensional content model?
 
 ## Instructions
 

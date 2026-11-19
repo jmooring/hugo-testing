@@ -1,0 +1,15 @@
+{{/*
+Displays a notice when the current page is filled in from the English
+content because a translation is not available.
+
+Because the English content mounts apply to every language, Hugo publishes
+an English file to the German site as a German page, so .Language returns
+German. Compare the location of the source file instead.
+*/}}
+{{ if ne .Site.Language.Name "en" }}
+	{{ with .File }}
+		{{ if strings.Contains (path.Clean .Filename) "/content/en/" }}
+			<p class="notice">{{ T "untranslated" }}</p>
+		{{ end }}
+	{{ end }}
+{{ end }}

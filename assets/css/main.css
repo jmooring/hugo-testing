@@ -64,6 +64,15 @@ img {
   content: "\00bb";
 }
 
+/* Notices */
+/* ------------------------------------------------------------------------- */
+
+.notice {
+  background-color: lightyellow;
+  border-left: 4px solid orange;
+  padding: 0.5em 1em;
+}
+
 /* Code blocks */
 /* ------------------------------------------------------------------------- */
 

@@ -1,8 +1,9 @@
 baseURL = 'https://example.org/'
-locale  = 'en-US'
-title   = 'Hugo Forum Topic #56516'
 
 disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
+
+defaultContentLanguage         = 'en'
+defaultContentLanguageInSubdir = true
 
 defaultContentVersion         = 'v0.4.0' # Set to the latest version
 defaultContentVersionInSubdir = true
@@ -11,29 +12,63 @@ defaultContentVersionInSubdir = true
 # Menus
 # -----------------------------------------------------------------------------
 
-[[menus.main]]
+[[languages.en.menus.main]]
   name    = 'Home'
   pageRef = '/'
   weight  = 10
 
-[[menus.main]]
+[[languages.en.menus.main]]
   name    = 'Documentation'
   pageRef = '/docs'
   weight  = 20
 
-[[menus.main]]
+[[languages.en.menus.main]]
   name    = 'Functions'
   pageRef = '/docs/functions'
   weight  = 30
 
-[[menus.main]]
+[[languages.en.menus.main]]
   name    = 'Posts'
+  pageRef = '/posts'
+  weight  = 40
+
+[[languages.de.menus.main]]
+  name    = 'Startseite'
+  pageRef = '/'
+  weight  = 10
+
+[[languages.de.menus.main]]
+  name    = 'Dokumentation'
+  pageRef = '/docs'
+  weight  = 20
+
+[[languages.de.menus.main]]
+  name    = 'Funktionen'
+  pageRef = '/docs/functions'
+  weight  = 30
+
+[[languages.de.menus.main]]
+  name    = 'Beiträge'
   pageRef = '/posts'
   weight  = 40
 
   # -----------------------------------------------------------------------------
   # Content dimensions
   # -----------------------------------------------------------------------------
+
+[languages]
+  [languages.en]
+    direction = 'ltr'
+    label     = 'English'
+    locale    = 'en-US'
+    title     = 'Hugo Forum Topic #56516'
+    weight    = 1
+  [languages.de]
+    direction = 'ltr'
+    label     = 'Deutsch'
+    locale    = 'de-DE'
+    title     = 'Hugo-Forum Thema #56516'
+    weight    = 2
 
 [versions]
   [versions.'v0.1.0']
@@ -46,42 +81,86 @@ defaultContentVersionInSubdir = true
     # -----------------------------------------------------------------------------
 
 [module.hugoVersion]
-  min = '0.155.0'
+  min = '0.170.1'
+
+# Each version directory contains only the pages added or modified in that
+# version. For each page in each site, Hugo uses the file from the first mount
+# that provides it, so list the mounts from the newest version to the oldest.
+#
+# Within each version, mount the German directory before the English
+# directory. The German mounts are limited to the German site. The English
+# mounts apply to every language, filling in each missing German translation
+# with the English page.
 
 [[module.mounts]]
-  source = 'content/unversioned'
+  source = 'content/de/unversioned'
   target = 'content'
-  [module.mounts.sites]
-    [module.mounts.sites.matrix]
-      versions = '**'
+  [module.mounts.sites.matrix]
+    languages = 'de'
+    versions  = '**'
 
 [[module.mounts]]
-  source = 'content/v0.4.0'
+  source = 'content/en/unversioned'
   target = 'content'
-  [module.mounts.sites]
-    [module.mounts.sites.matrix]
-      versions = '>= v0.4.0'
+  [module.mounts.sites.matrix]
+    languages = '**'
+    versions  = '**'
 
 [[module.mounts]]
-  source = 'content/v0.3.0'
+  source = 'content/de/v0.4.0'
   target = 'content'
-  [module.mounts.sites]
-    [module.mounts.sites.matrix]
-      versions = '>= v0.3.0'
+  [module.mounts.sites.matrix]
+    languages = 'de'
+    versions  = '>= v0.4.0'
 
 [[module.mounts]]
-  source = 'content/v0.2.0'
+  source = 'content/en/v0.4.0'
   target = 'content'
-  [module.mounts.sites]
-    [module.mounts.sites.matrix]
-      versions = '>= v0.2.0'
+  [module.mounts.sites.matrix]
+    languages = '**'
+    versions  = '>= v0.4.0'
 
 [[module.mounts]]
-  source = 'content/v0.1.0'
+  source = 'content/de/v0.3.0'
   target = 'content'
-  [module.mounts.sites]
-    [module.mounts.sites.matrix]
-      versions = '**'
+  [module.mounts.sites.matrix]
+    languages = 'de'
+    versions  = '>= v0.3.0'
+
+[[module.mounts]]
+  source = 'content/en/v0.3.0'
+  target = 'content'
+  [module.mounts.sites.matrix]
+    languages = '**'
+    versions  = '>= v0.3.0'
+
+[[module.mounts]]
+  source = 'content/de/v0.2.0'
+  target = 'content'
+  [module.mounts.sites.matrix]
+    languages = 'de'
+    versions  = '>= v0.2.0'
+
+[[module.mounts]]
+  source = 'content/en/v0.2.0'
+  target = 'content'
+  [module.mounts.sites.matrix]
+    languages = '**'
+    versions  = '>= v0.2.0'
+
+[[module.mounts]]
+  source = 'content/de/v0.1.0'
+  target = 'content'
+  [module.mounts.sites.matrix]
+    languages = 'de'
+    versions  = '**'
+
+[[module.mounts]]
+  source = 'content/en/v0.1.0'
+  target = 'content'
+  [module.mounts.sites.matrix]
+    languages = '**'
+    versions  = '**'
 
       # -----------------------------------------------------------------------------
       # Render hooks
