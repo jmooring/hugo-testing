@@ -1,3 +1,38 @@
 baseURL = 'https://example.org/'
 locale = 'en-US'
 title = 'Hugo GitHub Issue #15620'
+
+disableKinds = ['rss', 'sitemap', 'taxonomy', 'term']
+
+# Do not define a languages key. Defining one, even with a single language,
+# enables the embedded link and image render hooks and hides this issue.
+
+defaultContentVersion         = 'v3'
+defaultContentVersionInSubdir = true
+
+[versions.v1]
+[versions.v2]
+[versions.v3]
+
+# Each version directory contains only the pages added or changed in that
+# version. For each page in each site, Hugo uses the file from the first mount
+# that provides it, so list the mounts from the newest version to the oldest.
+# There is no content/v3 directory, so v3 uses the pages from content/v2.
+
+[[module.mounts]]
+  source = 'content/unversioned'
+  target = 'content'
+  [module.mounts.sites.matrix]
+    versions = '**'
+
+[[module.mounts]]
+  source = 'content/v2'
+  target = 'content'
+  [module.mounts.sites.matrix]
+    versions = '>= v2'
+
+[[module.mounts]]
+  source = 'content/v1'
+  target = 'content'
+  [module.mounts.sites.matrix]
+    versions = '**'
