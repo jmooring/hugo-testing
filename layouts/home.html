@@ -1,15 +1,18 @@
-{{ define "main" }}
-{{ with .Params.details }}
-	<p>Details: <a href="{{ . }}">{{ . }}</a></p>
+{{ $img := resources.Get "a.jpg" }}
+
+{{ $filters := slice
+	images.AutoOrient
+	(images.Process "resize 200x")
+}}
+{{ with $img.Filter $filters }}
+	{{ .Meta.Exif.ImageDescription }} {{/* this was a surprise to me, I thought this data was lost upon transformation */}}
 {{ end }}
-{{ with .Description }}
-	<p>Description: {{ . }}</p>
-{{ end }}
-{{ with or .Params.url .Params.details }}
-	<hr>
-{{ end }}
-{{ .Content }}
-{{ range site.RegularPages }}
-	<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-{{ end }}
-{{ end }}
+
+{{/*  {{ $filters := slice
+  images.AutoOrient
+  (images.Meta (dict "copyright" "bjorn.erik.pedersen@gmail.com"))
+  (images.Process "resize 200x")
+}}
+{{ with $img.Filter $filter }}
+   {{ .Meta }} // => What meta?
+{{ end }}  */}}
