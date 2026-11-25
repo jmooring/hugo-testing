@@ -9,7 +9,12 @@
 	<hr>
 {{ end }}
 {{ .Content }}
-{{ range site.RegularPages }}
-	<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+
+{{ with $i := resources.Get "images/a.jpg" }}
+	{{ if hugo.IsExtended }}
+		{{ $i = .Process "webp" }}
+	{{ end }}
+	<img src="{{ $i.RelPermalink }}" width="{{ $i.Width }}" height="{{ $i.Height }}" alt="">
 {{ end }}
+
 {{ end }}
